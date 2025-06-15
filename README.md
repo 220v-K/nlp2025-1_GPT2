@@ -21,18 +21,18 @@ $ conda env create -f environment.yml
 └─ nlp2025-1
    ├─ [lot of codes]
    ├─ predictions/
-   ├─ data/											[Dataset]
+   ├─ data/							[Dataset]
    ├─ models/
    └─ modules/
 └─ paraphrase_detection
    ├─ outputs/
-   │  ├─ logs_txt(250522-23)/		[text 파일로 정리한 학습 log]
-   │  ├─ logs_txt/							[text 파일로 정리한 학습 log (0523 이후)]
-   │  ├─ logs/									[tensorboard log 파일]
+   │  ├─ logs_txt(250522-23)/	[text 파일로 정리한 학습 log]
+   │  ├─ logs_txt/				[text 파일로 정리한 학습 log (0523 이후)]
+   │  ├─ logs/						[tensorboard log 파일]
    │  └─ checkpoints/
-   ├─ codes/										[Paraphrase Detection 관련 code]
-   ├─ data/											[Dataset (BackTranslation Augmented data 포함)]
-   └─ checkpoints/ 							[github에서 제거]
+   ├─ codes/						[Paraphrase Detection 관련 code]
+   ├─ data/							[Dataset (BackTranslation Augmented data 포함)]
+   └─ checkpoints/ 				[github에서 제거]
 ```
 
 **PART-I**의 과제는 `nlp2025-1` 폴더에 완성되어 있음.
