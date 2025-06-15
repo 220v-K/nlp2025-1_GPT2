@@ -1,0 +1,8 @@
+체크포인트: best_model.pt
+모델 타입: SimCSE + GPT-2 Paraphrase Detection
+정확도: 0.8946
+F1: 0.8879
+Precision: 0.8393
+Recall: 0.8828
+SimCSE 에폭: 3
+SimCSE 온도: 0.05

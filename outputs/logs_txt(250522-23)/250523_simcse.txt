@@ -1,0 +1,16 @@
+=== Dev Set 평가 결과 ===
+체크포인트: /home/2020112534/NLP_final/nlp2025-1/checkpoints/250523_simcse_etc/best-epoch=9-val_acc=0.8682.ckpt
+정확도 (Accuracy): 0.8682
+F1 스코어: 0.8594
+Precision: 0.8110
+Recall: 0.8374
+전체 샘플: 40429
+정확한 예측: 35102
+잘못된 예측: 5327
+오류율: 13.18%
+
+=== 혼동 행렬 ===
+True Positives: 12471
+True Negatives: 22631
+False Positives: 2906
+False Negatives: 2421

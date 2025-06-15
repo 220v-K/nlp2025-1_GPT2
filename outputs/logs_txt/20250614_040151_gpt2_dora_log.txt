@@ -1,0 +1,1025 @@
+-------------------------
+Time: 2025-06-14 04:02:00 | *** Validation Epoch 0 End ***
+  - Val Loss: 0.6413
+  - Val Acc:  0.6602
+  - Val F1:   0.4284
+-------------------------
+==================================================
+Run Name: 20250614_040151_gpt2_dora
+Training started at: 2025-06-14 04:02:02
+==================================================
+
+--- Hyperparameters ---
+-------------------------
+
+Time: 2025-06-14 04:02:25 | Step: 50 | Train Loss: 0.6938
+Time: 2025-06-14 04:02:47 | Step: 100 | Train Loss: 0.6057
+Time: 2025-06-14 04:03:10 | Step: 150 | Train Loss: 0.6074
+Time: 2025-06-14 04:03:32 | Step: 200 | Train Loss: 0.5454
+Time: 2025-06-14 04:03:55 | Step: 250 | Train Loss: 0.5227
+Time: 2025-06-14 04:04:17 | Step: 300 | Train Loss: 0.4936
+Time: 2025-06-14 04:04:40 | Step: 350 | Train Loss: 0.5324
+Time: 2025-06-14 04:05:02 | Step: 400 | Train Loss: 0.5466
+Time: 2025-06-14 04:05:25 | Step: 450 | Train Loss: 0.5730
+Time: 2025-06-14 04:05:47 | Step: 500 | Train Loss: 0.5032
+Time: 2025-06-14 04:06:10 | Step: 550 | Train Loss: 0.5819
+Time: 2025-06-14 04:06:32 | Step: 600 | Train Loss: 0.4935
+Time: 2025-06-14 04:06:55 | Step: 650 | Train Loss: 0.4943
+Time: 2025-06-14 04:07:17 | Step: 700 | Train Loss: 0.4372
+Time: 2025-06-14 04:07:39 | Step: 750 | Train Loss: 0.4742
+Time: 2025-06-14 04:08:02 | Step: 800 | Train Loss: 0.4889
+Time: 2025-06-14 04:08:24 | Step: 850 | Train Loss: 0.4781
+Time: 2025-06-14 04:08:47 | Step: 900 | Train Loss: 0.4758
+Time: 2025-06-14 04:09:09 | Step: 950 | Train Loss: 0.4275
+Time: 2025-06-14 04:09:32 | Step: 1000 | Train Loss: 0.5982
+Time: 2025-06-14 04:09:54 | Step: 1050 | Train Loss: 0.4142
+Time: 2025-06-14 04:10:17 | Step: 1100 | Train Loss: 0.4944
+Time: 2025-06-14 04:10:40 | Step: 1150 | Train Loss: 0.4261
+Time: 2025-06-14 04:11:02 | Step: 1200 | Train Loss: 0.5174
+Time: 2025-06-14 04:11:25 | Step: 1250 | Train Loss: 0.5806
+Time: 2025-06-14 04:11:47 | Step: 1300 | Train Loss: 0.4495
+Time: 2025-06-14 04:12:10 | Step: 1350 | Train Loss: 0.4237
+Time: 2025-06-14 04:12:32 | Step: 1400 | Train Loss: 0.4605
+Time: 2025-06-14 04:12:55 | Step: 1450 | Train Loss: 0.4683
+Time: 2025-06-14 04:13:17 | Step: 1500 | Train Loss: 0.4870
+Time: 2025-06-14 04:13:40 | Step: 1550 | Train Loss: 0.4350
+Time: 2025-06-14 04:14:02 | Step: 1600 | Train Loss: 0.4701
+Time: 2025-06-14 04:14:25 | Step: 1650 | Train Loss: 0.4403
+Time: 2025-06-14 04:14:47 | Step: 1700 | Train Loss: 0.4785
+Time: 2025-06-14 04:15:10 | Step: 1750 | Train Loss: 0.4507
+Time: 2025-06-14 04:15:32 | Step: 1800 | Train Loss: 0.4955
+Time: 2025-06-14 04:15:54 | Step: 1850 | Train Loss: 0.4682
+Time: 2025-06-14 04:16:17 | Step: 1900 | Train Loss: 0.4445
+Time: 2025-06-14 04:16:39 | Step: 1950 | Train Loss: 0.4059
+Time: 2025-06-14 04:17:02 | Step: 2000 | Train Loss: 0.3993
+Time: 2025-06-14 04:17:24 | Step: 2050 | Train Loss: 0.4149
+Time: 2025-06-14 04:17:47 | Step: 2100 | Train Loss: 0.4270
+Time: 2025-06-14 04:18:09 | Step: 2150 | Train Loss: 0.5046
+Time: 2025-06-14 04:18:32 | Step: 2200 | Train Loss: 0.3955
+-------------------------
+Time: 2025-06-14 04:19:40 | *** Validation Epoch 0 End ***
+  - Val Loss: 0.4329
+  - Val Acc:  0.7884
+  - Val F1:   0.7768
+-------------------------
+Time: 2025-06-14 04:20:08 | Step: 2250 | Train Loss: 0.4628
+Time: 2025-06-14 04:20:30 | Step: 2300 | Train Loss: 0.5050
+Time: 2025-06-14 04:20:53 | Step: 2350 | Train Loss: 0.4211
+Time: 2025-06-14 04:21:15 | Step: 2400 | Train Loss: 0.4214
+Time: 2025-06-14 04:21:38 | Step: 2450 | Train Loss: 0.4111
+Time: 2025-06-14 04:22:00 | Step: 2500 | Train Loss: 0.4142
+Time: 2025-06-14 04:22:23 | Step: 2550 | Train Loss: 0.4258
+Time: 2025-06-14 04:22:45 | Step: 2600 | Train Loss: 0.4739
+Time: 2025-06-14 04:23:08 | Step: 2650 | Train Loss: 0.3891
+Time: 2025-06-14 04:23:30 | Step: 2700 | Train Loss: 0.3436
+Time: 2025-06-14 04:23:53 | Step: 2750 | Train Loss: 0.3944
+Time: 2025-06-14 04:24:16 | Step: 2800 | Train Loss: 0.3595
+Time: 2025-06-14 04:24:38 | Step: 2850 | Train Loss: 0.5295
+Time: 2025-06-14 04:25:01 | Step: 2900 | Train Loss: 0.4128
+Time: 2025-06-14 04:25:23 | Step: 2950 | Train Loss: 0.3882
+Time: 2025-06-14 04:25:46 | Step: 3000 | Train Loss: 0.3810
+Time: 2025-06-14 04:26:08 | Step: 3050 | Train Loss: 0.3732
+Time: 2025-06-14 04:26:31 | Step: 3100 | Train Loss: 0.3997
+Time: 2025-06-14 04:26:53 | Step: 3150 | Train Loss: 0.4278
+Time: 2025-06-14 04:27:16 | Step: 3200 | Train Loss: 0.3987
+Time: 2025-06-14 04:27:38 | Step: 3250 | Train Loss: 0.4292
+Time: 2025-06-14 04:28:01 | Step: 3300 | Train Loss: 0.4119
+Time: 2025-06-14 04:28:23 | Step: 3350 | Train Loss: 0.4006
+Time: 2025-06-14 04:28:46 | Step: 3400 | Train Loss: 0.3629
+Time: 2025-06-14 04:29:08 | Step: 3450 | Train Loss: 0.4398
+Time: 2025-06-14 04:29:31 | Step: 3500 | Train Loss: 0.4111
+Time: 2025-06-14 04:29:53 | Step: 3550 | Train Loss: 0.4652
+Time: 2025-06-14 04:30:16 | Step: 3600 | Train Loss: 0.3446
+Time: 2025-06-14 04:30:38 | Step: 3650 | Train Loss: 0.3895
+Time: 2025-06-14 04:31:01 | Step: 3700 | Train Loss: 0.3066
+Time: 2025-06-14 04:31:23 | Step: 3750 | Train Loss: 0.4716
+Time: 2025-06-14 04:31:46 | Step: 3800 | Train Loss: 0.4171
+Time: 2025-06-14 04:32:08 | Step: 3850 | Train Loss: 0.3625
+Time: 2025-06-14 04:32:31 | Step: 3900 | Train Loss: 0.3546
+Time: 2025-06-14 04:32:53 | Step: 3950 | Train Loss: 0.3768
+Time: 2025-06-14 04:33:16 | Step: 4000 | Train Loss: 0.4011
+Time: 2025-06-14 04:33:38 | Step: 4050 | Train Loss: 0.4196
+Time: 2025-06-14 04:34:01 | Step: 4100 | Train Loss: 0.3282
+Time: 2025-06-14 04:34:24 | Step: 4150 | Train Loss: 0.4471
+Time: 2025-06-14 04:34:46 | Step: 4200 | Train Loss: 0.4254
+Time: 2025-06-14 04:35:09 | Step: 4250 | Train Loss: 0.4400
+Time: 2025-06-14 04:35:31 | Step: 4300 | Train Loss: 0.3821
+Time: 2025-06-14 04:35:54 | Step: 4350 | Train Loss: 0.5252
+Time: 2025-06-14 04:36:16 | Step: 4400 | Train Loss: 0.3329
+-------------------------
+Time: 2025-06-14 04:37:29 | *** Validation Epoch 1 End ***
+  - Val Loss: 0.3957
+  - Val Acc:  0.8100
+  - Val F1:   0.7971
+-------------------------
+Time: 2025-06-14 04:37:53 | Step: 4450 | Train Loss: 0.3551
+Time: 2025-06-14 04:38:16 | Step: 4500 | Train Loss: 0.3987
+Time: 2025-06-14 04:38:38 | Step: 4550 | Train Loss: 0.3758
+Time: 2025-06-14 04:39:01 | Step: 4600 | Train Loss: 0.4355
+Time: 2025-06-14 04:39:23 | Step: 4650 | Train Loss: 0.3913
+Time: 2025-06-14 04:39:46 | Step: 4700 | Train Loss: 0.5271
+Time: 2025-06-14 04:40:08 | Step: 4750 | Train Loss: 0.4015
+Time: 2025-06-14 04:40:31 | Step: 4800 | Train Loss: 0.4285
+Time: 2025-06-14 04:40:53 | Step: 4850 | Train Loss: 0.3856
+Time: 2025-06-14 04:41:16 | Step: 4900 | Train Loss: 0.3633
+Time: 2025-06-14 04:41:38 | Step: 4950 | Train Loss: 0.4517
+Time: 2025-06-14 04:42:01 | Step: 5000 | Train Loss: 0.3922
+Time: 2025-06-14 04:42:23 | Step: 5050 | Train Loss: 0.3221
+Time: 2025-06-14 04:42:46 | Step: 5100 | Train Loss: 0.3380
+Time: 2025-06-14 04:43:08 | Step: 5150 | Train Loss: 0.3194
+Time: 2025-06-14 04:43:31 | Step: 5200 | Train Loss: 0.4199
+Time: 2025-06-14 04:43:53 | Step: 5250 | Train Loss: 0.4154
+Time: 2025-06-14 04:44:16 | Step: 5300 | Train Loss: 0.3337
+Time: 2025-06-14 04:44:38 | Step: 5350 | Train Loss: 0.4095
+Time: 2025-06-14 04:45:01 | Step: 5400 | Train Loss: 0.3236
+Time: 2025-06-14 04:45:24 | Step: 5450 | Train Loss: 0.4575
+Time: 2025-06-14 04:45:46 | Step: 5500 | Train Loss: 0.4367
+Time: 2025-06-14 04:46:09 | Step: 5550 | Train Loss: 0.3955
+Time: 2025-06-14 04:46:31 | Step: 5600 | Train Loss: 0.4020
+Time: 2025-06-14 04:46:54 | Step: 5650 | Train Loss: 0.3102
+Time: 2025-06-14 04:47:16 | Step: 5700 | Train Loss: 0.4175
+Time: 2025-06-14 04:47:39 | Step: 5750 | Train Loss: 0.4589
+Time: 2025-06-14 04:48:01 | Step: 5800 | Train Loss: 0.3796
+Time: 2025-06-14 04:48:24 | Step: 5850 | Train Loss: 0.3306
+Time: 2025-06-14 04:48:46 | Step: 5900 | Train Loss: 0.3602
+Time: 2025-06-14 04:49:09 | Step: 5950 | Train Loss: 0.4393
+Time: 2025-06-14 04:49:31 | Step: 6000 | Train Loss: 0.3137
+Time: 2025-06-14 04:49:54 | Step: 6050 | Train Loss: 0.3865
+Time: 2025-06-14 04:50:16 | Step: 6100 | Train Loss: 0.3758
+Time: 2025-06-14 04:50:39 | Step: 6150 | Train Loss: 0.4102
+Time: 2025-06-14 04:51:01 | Step: 6200 | Train Loss: 0.3284
+Time: 2025-06-14 04:51:24 | Step: 6250 | Train Loss: 0.2867
+Time: 2025-06-14 04:51:46 | Step: 6300 | Train Loss: 0.4191
+Time: 2025-06-14 04:52:09 | Step: 6350 | Train Loss: 0.3801
+Time: 2025-06-14 04:52:31 | Step: 6400 | Train Loss: 0.3837
+Time: 2025-06-14 04:52:54 | Step: 6450 | Train Loss: 0.4376
+Time: 2025-06-14 04:53:16 | Step: 6500 | Train Loss: 0.3986
+Time: 2025-06-14 04:53:39 | Step: 6550 | Train Loss: 0.3838
+Time: 2025-06-14 04:54:01 | Step: 6600 | Train Loss: 0.3799
+-------------------------
+Time: 2025-06-14 04:55:19 | *** Validation Epoch 2 End ***
+  - Val Loss: 0.3801
+  - Val Acc:  0.8195
+  - Val F1:   0.8052
+-------------------------
+Time: 2025-06-14 04:55:38 | Step: 6650 | Train Loss: 0.3656
+Time: 2025-06-14 04:56:01 | Step: 6700 | Train Loss: 0.3614
+Time: 2025-06-14 04:56:23 | Step: 6750 | Train Loss: 0.4182
+Time: 2025-06-14 04:56:46 | Step: 6800 | Train Loss: 0.3661
+Time: 2025-06-14 04:57:08 | Step: 6850 | Train Loss: 0.4065
+Time: 2025-06-14 04:57:31 | Step: 6900 | Train Loss: 0.4349
+Time: 2025-06-14 04:57:53 | Step: 6950 | Train Loss: 0.4454
+Time: 2025-06-14 04:58:16 | Step: 7000 | Train Loss: 0.4092
+Time: 2025-06-14 04:58:38 | Step: 7050 | Train Loss: 0.3321
+Time: 2025-06-14 04:59:01 | Step: 7100 | Train Loss: 0.3942
+Time: 2025-06-14 04:59:23 | Step: 7150 | Train Loss: 0.3832
+Time: 2025-06-14 04:59:46 | Step: 7200 | Train Loss: 0.2968
+Time: 2025-06-14 05:00:08 | Step: 7250 | Train Loss: 0.3880
+Time: 2025-06-14 05:00:31 | Step: 7300 | Train Loss: 0.3323
+Time: 2025-06-14 05:00:53 | Step: 7350 | Train Loss: 0.3851
+Time: 2025-06-14 05:01:16 | Step: 7400 | Train Loss: 0.3576
+Time: 2025-06-14 05:01:38 | Step: 7450 | Train Loss: 0.3581
+Time: 2025-06-14 05:02:01 | Step: 7500 | Train Loss: 0.4075
+Time: 2025-06-14 05:02:23 | Step: 7550 | Train Loss: 0.2926
+Time: 2025-06-14 05:02:46 | Step: 7600 | Train Loss: 0.3751
+Time: 2025-06-14 05:03:08 | Step: 7650 | Train Loss: 0.2826
+Time: 2025-06-14 05:03:31 | Step: 7700 | Train Loss: 0.3084
+Time: 2025-06-14 05:03:53 | Step: 7750 | Train Loss: 0.3377
+Time: 2025-06-14 05:04:16 | Step: 7800 | Train Loss: 0.4521
+Time: 2025-06-14 05:04:38 | Step: 7850 | Train Loss: 0.4259
+Time: 2025-06-14 05:05:01 | Step: 7900 | Train Loss: 0.4315
+Time: 2025-06-14 05:05:23 | Step: 7950 | Train Loss: 0.3204
+Time: 2025-06-14 05:05:46 | Step: 8000 | Train Loss: 0.4284
+Time: 2025-06-14 05:06:08 | Step: 8050 | Train Loss: 0.3244
+Time: 2025-06-14 05:06:31 | Step: 8100 | Train Loss: 0.2988
+Time: 2025-06-14 05:06:53 | Step: 8150 | Train Loss: 0.3592
+Time: 2025-06-14 05:07:16 | Step: 8200 | Train Loss: 0.3095
+Time: 2025-06-14 05:07:38 | Step: 8250 | Train Loss: 0.3906
+Time: 2025-06-14 05:08:01 | Step: 8300 | Train Loss: 0.3747
+Time: 2025-06-14 05:08:23 | Step: 8350 | Train Loss: 0.3212
+Time: 2025-06-14 05:08:46 | Step: 8400 | Train Loss: 0.3499
+Time: 2025-06-14 05:09:08 | Step: 8450 | Train Loss: 0.3251
+Time: 2025-06-14 05:09:31 | Step: 8500 | Train Loss: 0.4071
+Time: 2025-06-14 05:09:53 | Step: 8550 | Train Loss: 0.2927
+Time: 2025-06-14 05:10:16 | Step: 8600 | Train Loss: 0.3073
+Time: 2025-06-14 05:10:38 | Step: 8650 | Train Loss: 0.3742
+Time: 2025-06-14 05:11:01 | Step: 8700 | Train Loss: 0.2946
+Time: 2025-06-14 05:11:23 | Step: 8750 | Train Loss: 0.3274
+Time: 2025-06-14 05:11:46 | Step: 8800 | Train Loss: 0.3641
+-------------------------
+Time: 2025-06-14 05:13:09 | *** Validation Epoch 3 End ***
+  - Val Loss: 0.3688
+  - Val Acc:  0.8265
+  - Val F1:   0.8164
+-------------------------
+Time: 2025-06-14 05:13:23 | Step: 8850 | Train Loss: 0.3555
+Time: 2025-06-14 05:13:46 | Step: 8900 | Train Loss: 0.4689
+Time: 2025-06-14 05:14:08 | Step: 8950 | Train Loss: 0.3731
+Time: 2025-06-14 05:14:30 | Step: 9000 | Train Loss: 0.4180
+Time: 2025-06-14 05:14:53 | Step: 9050 | Train Loss: 0.4277
+Time: 2025-06-14 05:15:15 | Step: 9100 | Train Loss: 0.3532
+Time: 2025-06-14 05:15:38 | Step: 9150 | Train Loss: 0.4054
+Time: 2025-06-14 05:16:01 | Step: 9200 | Train Loss: 0.4174
+Time: 2025-06-14 05:16:23 | Step: 9250 | Train Loss: 0.3681
+Time: 2025-06-14 05:16:46 | Step: 9300 | Train Loss: 0.3230
+Time: 2025-06-14 05:17:08 | Step: 9350 | Train Loss: 0.4779
+Time: 2025-06-14 05:17:31 | Step: 9400 | Train Loss: 0.3056
+Time: 2025-06-14 05:17:53 | Step: 9450 | Train Loss: 0.4116
+Time: 2025-06-14 05:18:16 | Step: 9500 | Train Loss: 0.3438
+Time: 2025-06-14 05:18:38 | Step: 9550 | Train Loss: 0.3528
+Time: 2025-06-14 05:19:00 | Step: 9600 | Train Loss: 0.3752
+Time: 2025-06-14 05:19:23 | Step: 9650 | Train Loss: 0.3934
+Time: 2025-06-14 05:19:45 | Step: 9700 | Train Loss: 0.3512
+Time: 2025-06-14 05:20:08 | Step: 9750 | Train Loss: 0.3858
+Time: 2025-06-14 05:20:30 | Step: 9800 | Train Loss: 0.3458
+Time: 2025-06-14 05:20:53 | Step: 9850 | Train Loss: 0.3698
+Time: 2025-06-14 05:21:15 | Step: 9900 | Train Loss: 0.2892
+Time: 2025-06-14 05:21:38 | Step: 9950 | Train Loss: 0.3522
+Time: 2025-06-14 05:22:00 | Step: 10000 | Train Loss: 0.3028
+Time: 2025-06-14 05:22:23 | Step: 10050 | Train Loss: 0.3518
+Time: 2025-06-14 05:22:46 | Step: 10100 | Train Loss: 0.4223
+Time: 2025-06-14 05:23:08 | Step: 10150 | Train Loss: 0.4652
+Time: 2025-06-14 05:23:31 | Step: 10200 | Train Loss: 0.2667
+Time: 2025-06-14 05:23:53 | Step: 10250 | Train Loss: 0.4391
+Time: 2025-06-14 05:24:16 | Step: 10300 | Train Loss: 0.3243
+Time: 2025-06-14 05:24:38 | Step: 10350 | Train Loss: 0.3231
+Time: 2025-06-14 05:25:01 | Step: 10400 | Train Loss: 0.4028
+Time: 2025-06-14 05:25:23 | Step: 10450 | Train Loss: 0.3755
+Time: 2025-06-14 05:25:46 | Step: 10500 | Train Loss: 0.4136
+Time: 2025-06-14 05:26:08 | Step: 10550 | Train Loss: 0.3444
+Time: 2025-06-14 05:26:31 | Step: 10600 | Train Loss: 0.3750
+Time: 2025-06-14 05:26:53 | Step: 10650 | Train Loss: 0.4349
+Time: 2025-06-14 05:27:16 | Step: 10700 | Train Loss: 0.2868
+Time: 2025-06-14 05:27:38 | Step: 10750 | Train Loss: 0.4534
+Time: 2025-06-14 05:28:01 | Step: 10800 | Train Loss: 0.3205
+Time: 2025-06-14 05:28:23 | Step: 10850 | Train Loss: 0.4494
+Time: 2025-06-14 05:28:46 | Step: 10900 | Train Loss: 0.3230
+Time: 2025-06-14 05:29:08 | Step: 10950 | Train Loss: 0.3061
+Time: 2025-06-14 05:29:31 | Step: 11000 | Train Loss: 0.4508
+Time: 2025-06-14 05:29:53 | Step: 11050 | Train Loss: 0.4142
+-------------------------
+Time: 2025-06-14 05:30:59 | *** Validation Epoch 4 End ***
+  - Val Loss: 0.3603
+  - Val Acc:  0.8313
+  - Val F1:   0.8178
+-------------------------
+Time: 2025-06-14 05:31:31 | Step: 11100 | Train Loss: 0.3605
+Time: 2025-06-14 05:31:53 | Step: 11150 | Train Loss: 0.3060
+Time: 2025-06-14 05:32:15 | Step: 11200 | Train Loss: 0.3740
+Time: 2025-06-14 05:32:38 | Step: 11250 | Train Loss: 0.3551
+Time: 2025-06-14 05:33:01 | Step: 11300 | Train Loss: 0.3352
+Time: 2025-06-14 05:33:23 | Step: 11350 | Train Loss: 0.3772
+Time: 2025-06-14 05:33:46 | Step: 11400 | Train Loss: 0.3820
+Time: 2025-06-14 05:34:08 | Step: 11450 | Train Loss: 0.4128
+Time: 2025-06-14 05:34:31 | Step: 11500 | Train Loss: 0.3673
+Time: 2025-06-14 05:34:53 | Step: 11550 | Train Loss: 0.3955
+Time: 2025-06-14 05:35:16 | Step: 11600 | Train Loss: 0.4122
+Time: 2025-06-14 05:35:38 | Step: 11650 | Train Loss: 0.2822
+Time: 2025-06-14 05:36:01 | Step: 11700 | Train Loss: 0.3506
+Time: 2025-06-14 05:36:23 | Step: 11750 | Train Loss: 0.3707
+Time: 2025-06-14 05:36:46 | Step: 11800 | Train Loss: 0.2664
+Time: 2025-06-14 05:37:08 | Step: 11850 | Train Loss: 0.3583
+Time: 2025-06-14 05:37:31 | Step: 11900 | Train Loss: 0.3036
+Time: 2025-06-14 05:37:53 | Step: 11950 | Train Loss: 0.3811
+Time: 2025-06-14 05:38:16 | Step: 12000 | Train Loss: 0.3586
+Time: 2025-06-14 05:38:38 | Step: 12050 | Train Loss: 0.3605
+Time: 2025-06-14 05:39:01 | Step: 12100 | Train Loss: 0.2794
+Time: 2025-06-14 05:39:23 | Step: 12150 | Train Loss: 0.4116
+Time: 2025-06-14 05:39:46 | Step: 12200 | Train Loss: 0.3885
+Time: 2025-06-14 05:40:08 | Step: 12250 | Train Loss: 0.3152
+Time: 2025-06-14 05:40:31 | Step: 12300 | Train Loss: 0.3734
+Time: 2025-06-14 05:40:53 | Step: 12350 | Train Loss: 0.2709
+Time: 2025-06-14 05:41:16 | Step: 12400 | Train Loss: 0.3793
+Time: 2025-06-14 05:41:38 | Step: 12450 | Train Loss: 0.3600
+Time: 2025-06-14 05:42:01 | Step: 12500 | Train Loss: 0.3108
+Time: 2025-06-14 05:42:23 | Step: 12550 | Train Loss: 0.3498
+Time: 2025-06-14 05:42:46 | Step: 12600 | Train Loss: 0.3838
+Time: 2025-06-14 05:43:08 | Step: 12650 | Train Loss: 0.3812
+Time: 2025-06-14 05:43:31 | Step: 12700 | Train Loss: 0.3595
+Time: 2025-06-14 05:43:53 | Step: 12750 | Train Loss: 0.3637
+Time: 2025-06-14 05:44:16 | Step: 12800 | Train Loss: 0.3067
+Time: 2025-06-14 05:44:38 | Step: 12850 | Train Loss: 0.2960
+Time: 2025-06-14 05:45:01 | Step: 12900 | Train Loss: 0.4053
+Time: 2025-06-14 05:45:23 | Step: 12950 | Train Loss: 0.3692
+Time: 2025-06-14 05:45:46 | Step: 13000 | Train Loss: 0.3396
+Time: 2025-06-14 05:46:08 | Step: 13050 | Train Loss: 0.2633
+Time: 2025-06-14 05:46:31 | Step: 13100 | Train Loss: 0.3515
+Time: 2025-06-14 05:46:53 | Step: 13150 | Train Loss: 0.3418
+Time: 2025-06-14 05:47:16 | Step: 13200 | Train Loss: 0.3431
+Time: 2025-06-14 05:47:38 | Step: 13250 | Train Loss: 0.2896
+-------------------------
+Time: 2025-06-14 05:48:48 | *** Validation Epoch 5 End ***
+  - Val Loss: 0.3503
+  - Val Acc:  0.8365
+  - Val F1:   0.8253
+-------------------------
+Time: 2025-06-14 05:49:15 | Step: 13300 | Train Loss: 0.3479
+Time: 2025-06-14 05:49:38 | Step: 13350 | Train Loss: 0.3415
+Time: 2025-06-14 05:50:00 | Step: 13400 | Train Loss: 0.3883
+Time: 2025-06-14 05:50:23 | Step: 13450 | Train Loss: 0.3519
+Time: 2025-06-14 05:50:45 | Step: 13500 | Train Loss: 0.4269
+Time: 2025-06-14 05:51:08 | Step: 13550 | Train Loss: 0.3167
+Time: 2025-06-14 05:51:30 | Step: 13600 | Train Loss: 0.4256
+Time: 2025-06-14 05:51:53 | Step: 13650 | Train Loss: 0.3510
+Time: 2025-06-14 05:52:15 | Step: 13700 | Train Loss: 0.2843
+Time: 2025-06-14 05:52:38 | Step: 13750 | Train Loss: 0.2908
+Time: 2025-06-14 05:53:00 | Step: 13800 | Train Loss: 0.4041
+Time: 2025-06-14 05:53:23 | Step: 13850 | Train Loss: 0.3809
+Time: 2025-06-14 05:53:45 | Step: 13900 | Train Loss: 0.3289
+Time: 2025-06-14 05:54:08 | Step: 13950 | Train Loss: 0.2187
+Time: 2025-06-14 05:54:30 | Step: 14000 | Train Loss: 0.3837
+Time: 2025-06-14 05:54:53 | Step: 14050 | Train Loss: 0.4243
+Time: 2025-06-14 05:55:15 | Step: 14100 | Train Loss: 0.4550
+Time: 2025-06-14 05:55:38 | Step: 14150 | Train Loss: 0.4100
+Time: 2025-06-14 05:56:00 | Step: 14200 | Train Loss: 0.3070
+Time: 2025-06-14 05:56:23 | Step: 14250 | Train Loss: 0.2986
+Time: 2025-06-14 05:56:45 | Step: 14300 | Train Loss: 0.4297
+Time: 2025-06-14 05:57:08 | Step: 14350 | Train Loss: 0.3942
+Time: 2025-06-14 05:57:30 | Step: 14400 | Train Loss: 0.3154
+Time: 2025-06-14 05:57:53 | Step: 14450 | Train Loss: 0.3357
+Time: 2025-06-14 05:58:15 | Step: 14500 | Train Loss: 0.3862
+Time: 2025-06-14 05:58:38 | Step: 14550 | Train Loss: 0.2751
+Time: 2025-06-14 05:59:00 | Step: 14600 | Train Loss: 0.4667
+Time: 2025-06-14 05:59:23 | Step: 14650 | Train Loss: 0.3798
+Time: 2025-06-14 05:59:45 | Step: 14700 | Train Loss: 0.2725
+Time: 2025-06-14 06:00:08 | Step: 14750 | Train Loss: 0.3831
+Time: 2025-06-14 06:00:30 | Step: 14800 | Train Loss: 0.3479
+Time: 2025-06-14 06:00:53 | Step: 14850 | Train Loss: 0.3419
+Time: 2025-06-14 06:01:15 | Step: 14900 | Train Loss: 0.3540
+Time: 2025-06-14 06:01:38 | Step: 14950 | Train Loss: 0.4391
+Time: 2025-06-14 06:02:00 | Step: 15000 | Train Loss: 0.3736
+Time: 2025-06-14 06:02:23 | Step: 15050 | Train Loss: 0.3695
+Time: 2025-06-14 06:02:45 | Step: 15100 | Train Loss: 0.3725
+Time: 2025-06-14 06:03:08 | Step: 15150 | Train Loss: 0.4967
+Time: 2025-06-14 06:03:30 | Step: 15200 | Train Loss: 0.3784
+Time: 2025-06-14 06:03:53 | Step: 15250 | Train Loss: 0.2988
+Time: 2025-06-14 06:04:15 | Step: 15300 | Train Loss: 0.2910
+Time: 2025-06-14 06:04:38 | Step: 15350 | Train Loss: 0.2964
+Time: 2025-06-14 06:05:01 | Step: 15400 | Train Loss: 0.3329
+Time: 2025-06-14 06:05:23 | Step: 15450 | Train Loss: 0.3504
+-------------------------
+Time: 2025-06-14 06:06:38 | *** Validation Epoch 6 End ***
+  - Val Loss: 0.3449
+  - Val Acc:  0.8392
+  - Val F1:   0.8305
+-------------------------
+Time: 2025-06-14 06:07:00 | Step: 15500 | Train Loss: 0.3477
+Time: 2025-06-14 06:07:23 | Step: 15550 | Train Loss: 0.3908
+Time: 2025-06-14 06:07:45 | Step: 15600 | Train Loss: 0.3311
+Time: 2025-06-14 06:08:08 | Step: 15650 | Train Loss: 0.3603
+Time: 2025-06-14 06:08:30 | Step: 15700 | Train Loss: 0.3175
+Time: 2025-06-14 06:08:53 | Step: 15750 | Train Loss: 0.3842
+Time: 2025-06-14 06:09:15 | Step: 15800 | Train Loss: 0.2402
+Time: 2025-06-14 06:09:38 | Step: 15850 | Train Loss: 0.3719
+Time: 2025-06-14 06:10:00 | Step: 15900 | Train Loss: 0.4004
+Time: 2025-06-14 06:10:23 | Step: 15950 | Train Loss: 0.3572
+Time: 2025-06-14 06:10:46 | Step: 16000 | Train Loss: 0.3931
+Time: 2025-06-14 06:11:08 | Step: 16050 | Train Loss: 0.3706
+Time: 2025-06-14 06:11:31 | Step: 16100 | Train Loss: 0.3171
+Time: 2025-06-14 06:11:53 | Step: 16150 | Train Loss: 0.3331
+Time: 2025-06-14 06:12:16 | Step: 16200 | Train Loss: 0.3299
+Time: 2025-06-14 06:12:38 | Step: 16250 | Train Loss: 0.2582
+Time: 2025-06-14 06:13:01 | Step: 16300 | Train Loss: 0.2868
+Time: 2025-06-14 06:13:23 | Step: 16350 | Train Loss: 0.3106
+Time: 2025-06-14 06:13:46 | Step: 16400 | Train Loss: 0.3111
+Time: 2025-06-14 06:14:08 | Step: 16450 | Train Loss: 0.2722
+Time: 2025-06-14 06:14:31 | Step: 16500 | Train Loss: 0.3144
+Time: 2025-06-14 06:14:53 | Step: 16550 | Train Loss: 0.3577
+Time: 2025-06-14 06:15:16 | Step: 16600 | Train Loss: 0.3106
+Time: 2025-06-14 06:15:38 | Step: 16650 | Train Loss: 0.3134
+Time: 2025-06-14 06:16:01 | Step: 16700 | Train Loss: 0.3603
+Time: 2025-06-14 06:16:23 | Step: 16750 | Train Loss: 0.2889
+Time: 2025-06-14 06:16:46 | Step: 16800 | Train Loss: 0.3874
+Time: 2025-06-14 06:17:08 | Step: 16850 | Train Loss: 0.3172
+Time: 2025-06-14 06:17:31 | Step: 16900 | Train Loss: 0.3683
+Time: 2025-06-14 06:17:53 | Step: 16950 | Train Loss: 0.3697
+Time: 2025-06-14 06:18:16 | Step: 17000 | Train Loss: 0.3166
+Time: 2025-06-14 06:18:38 | Step: 17050 | Train Loss: 0.2930
+Time: 2025-06-14 06:19:01 | Step: 17100 | Train Loss: 0.2716
+Time: 2025-06-14 06:19:23 | Step: 17150 | Train Loss: 0.4251
+Time: 2025-06-14 06:19:46 | Step: 17200 | Train Loss: 0.3342
+Time: 2025-06-14 06:20:08 | Step: 17250 | Train Loss: 0.3478
+Time: 2025-06-14 06:20:31 | Step: 17300 | Train Loss: 0.2774
+Time: 2025-06-14 06:20:53 | Step: 17350 | Train Loss: 0.3057
+Time: 2025-06-14 06:21:16 | Step: 17400 | Train Loss: 0.3598
+Time: 2025-06-14 06:21:39 | Step: 17450 | Train Loss: 0.2755
+Time: 2025-06-14 06:22:01 | Step: 17500 | Train Loss: 0.4002
+Time: 2025-06-14 06:22:24 | Step: 17550 | Train Loss: 0.3782
+Time: 2025-06-14 06:22:46 | Step: 17600 | Train Loss: 0.3127
+Time: 2025-06-14 06:23:09 | Step: 17650 | Train Loss: 0.3270
+-------------------------
+Time: 2025-06-14 06:24:29 | *** Validation Epoch 7 End ***
+  - Val Loss: 0.3413
+  - Val Acc:  0.8421
+  - Val F1:   0.8330
+-------------------------
+Time: 2025-06-14 06:24:46 | Step: 17700 | Train Loss: 0.4157
+Time: 2025-06-14 06:25:08 | Step: 17750 | Train Loss: 0.4477
+Time: 2025-06-14 06:25:31 | Step: 17800 | Train Loss: 0.3832
+Time: 2025-06-14 06:25:53 | Step: 17850 | Train Loss: 0.3489
+Time: 2025-06-14 06:26:16 | Step: 17900 | Train Loss: 0.3382
+Time: 2025-06-14 06:26:38 | Step: 17950 | Train Loss: 0.3186
+Time: 2025-06-14 06:27:01 | Step: 18000 | Train Loss: 0.4296
+Time: 2025-06-14 06:27:23 | Step: 18050 | Train Loss: 0.3861
+Time: 2025-06-14 06:27:46 | Step: 18100 | Train Loss: 0.3772
+Time: 2025-06-14 06:28:08 | Step: 18150 | Train Loss: 0.2426
+Time: 2025-06-14 06:28:31 | Step: 18200 | Train Loss: 0.4083
+Time: 2025-06-14 06:28:53 | Step: 18250 | Train Loss: 0.2442
+Time: 2025-06-14 06:29:16 | Step: 18300 | Train Loss: 0.4058
+Time: 2025-06-14 06:29:38 | Step: 18350 | Train Loss: 0.3090
+Time: 2025-06-14 06:30:01 | Step: 18400 | Train Loss: 0.3352
+Time: 2025-06-14 06:30:23 | Step: 18450 | Train Loss: 0.3050
+Time: 2025-06-14 06:30:46 | Step: 18500 | Train Loss: 0.3940
+Time: 2025-06-14 06:31:08 | Step: 18550 | Train Loss: 0.3262
+Time: 2025-06-14 06:31:31 | Step: 18600 | Train Loss: 0.3301
+Time: 2025-06-14 06:31:53 | Step: 18650 | Train Loss: 0.3089
+Time: 2025-06-14 06:32:16 | Step: 18700 | Train Loss: 0.2646
+Time: 2025-06-14 06:32:38 | Step: 18750 | Train Loss: 0.2816
+Time: 2025-06-14 06:33:01 | Step: 18800 | Train Loss: 0.3007
+Time: 2025-06-14 06:33:23 | Step: 18850 | Train Loss: 0.3250
+Time: 2025-06-14 06:33:46 | Step: 18900 | Train Loss: 0.4385
+Time: 2025-06-14 06:34:08 | Step: 18950 | Train Loss: 0.3170
+Time: 2025-06-14 06:34:31 | Step: 19000 | Train Loss: 0.4029
+Time: 2025-06-14 06:34:53 | Step: 19050 | Train Loss: 0.3171
+Time: 2025-06-14 06:35:16 | Step: 19100 | Train Loss: 0.2224
+Time: 2025-06-14 06:35:38 | Step: 19150 | Train Loss: 0.2954
+Time: 2025-06-14 06:36:01 | Step: 19200 | Train Loss: 0.3561
+Time: 2025-06-14 06:36:23 | Step: 19250 | Train Loss: 0.3238
+Time: 2025-06-14 06:36:46 | Step: 19300 | Train Loss: 0.2806
+Time: 2025-06-14 06:37:08 | Step: 19350 | Train Loss: 0.2958
+Time: 2025-06-14 06:37:31 | Step: 19400 | Train Loss: 0.2749
+Time: 2025-06-14 06:37:53 | Step: 19450 | Train Loss: 0.2926
+Time: 2025-06-14 06:38:16 | Step: 19500 | Train Loss: 0.3181
+Time: 2025-06-14 06:38:38 | Step: 19550 | Train Loss: 0.3196
+Time: 2025-06-14 06:39:01 | Step: 19600 | Train Loss: 0.3334
+Time: 2025-06-14 06:39:24 | Step: 19650 | Train Loss: 0.3050
+Time: 2025-06-14 06:39:46 | Step: 19700 | Train Loss: 0.3705
+Time: 2025-06-14 06:40:09 | Step: 19750 | Train Loss: 0.2569
+Time: 2025-06-14 06:40:31 | Step: 19800 | Train Loss: 0.3268
+Time: 2025-06-14 06:40:54 | Step: 19850 | Train Loss: 0.4236
+Time: 2025-06-14 06:41:16 | Step: 19900 | Train Loss: 0.3334
+-------------------------
+Time: 2025-06-14 06:42:19 | *** Validation Epoch 8 End ***
+  - Val Loss: 0.3381
+  - Val Acc:  0.8439
+  - Val F1:   0.8363
+-------------------------
+Time: 2025-06-14 06:42:53 | Step: 19950 | Train Loss: 0.2972
+Time: 2025-06-14 06:43:16 | Step: 20000 | Train Loss: 0.3061
+Time: 2025-06-14 06:43:38 | Step: 20050 | Train Loss: 0.3454
+Time: 2025-06-14 06:44:01 | Step: 20100 | Train Loss: 0.3062
+Time: 2025-06-14 06:44:23 | Step: 20150 | Train Loss: 0.3031
+Time: 2025-06-14 06:44:46 | Step: 20200 | Train Loss: 0.2420
+Time: 2025-06-14 06:45:08 | Step: 20250 | Train Loss: 0.3289
+Time: 2025-06-14 06:45:31 | Step: 20300 | Train Loss: 0.2476
+Time: 2025-06-14 06:45:53 | Step: 20350 | Train Loss: 0.2624
+Time: 2025-06-14 06:46:16 | Step: 20400 | Train Loss: 0.3789
+Time: 2025-06-14 06:46:38 | Step: 20450 | Train Loss: 0.2769
+Time: 2025-06-14 06:47:01 | Step: 20500 | Train Loss: 0.3571
+Time: 2025-06-14 06:47:23 | Step: 20550 | Train Loss: 0.2416
+Time: 2025-06-14 06:47:46 | Step: 20600 | Train Loss: 0.4096
+Time: 2025-06-14 06:48:09 | Step: 20650 | Train Loss: 0.3276
+Time: 2025-06-14 06:48:31 | Step: 20700 | Train Loss: 0.3540
+Time: 2025-06-14 06:48:54 | Step: 20750 | Train Loss: 0.4210
+Time: 2025-06-14 06:49:16 | Step: 20800 | Train Loss: 0.2453
+Time: 2025-06-14 06:49:39 | Step: 20850 | Train Loss: 0.2979
+Time: 2025-06-14 06:50:01 | Step: 20900 | Train Loss: 0.4182
+Time: 2025-06-14 06:50:24 | Step: 20950 | Train Loss: 0.2584
+Time: 2025-06-14 06:50:46 | Step: 21000 | Train Loss: 0.3045
+Time: 2025-06-14 06:51:09 | Step: 21050 | Train Loss: 0.3744
+Time: 2025-06-14 06:51:31 | Step: 21100 | Train Loss: 0.3322
+Time: 2025-06-14 06:51:54 | Step: 21150 | Train Loss: 0.3199
+Time: 2025-06-14 06:52:16 | Step: 21200 | Train Loss: 0.2455
+Time: 2025-06-14 06:52:39 | Step: 21250 | Train Loss: 0.2879
+Time: 2025-06-14 06:53:01 | Step: 21300 | Train Loss: 0.3240
+Time: 2025-06-14 06:53:24 | Step: 21350 | Train Loss: 0.3504
+Time: 2025-06-14 06:53:46 | Step: 21400 | Train Loss: 0.3710
+Time: 2025-06-14 06:54:09 | Step: 21450 | Train Loss: 0.3164
+Time: 2025-06-14 06:54:31 | Step: 21500 | Train Loss: 0.2448
+Time: 2025-06-14 06:54:54 | Step: 21550 | Train Loss: 0.2265
+Time: 2025-06-14 06:55:16 | Step: 21600 | Train Loss: 0.3409
+Time: 2025-06-14 06:55:39 | Step: 21650 | Train Loss: 0.2350
+Time: 2025-06-14 06:56:01 | Step: 21700 | Train Loss: 0.4043
+Time: 2025-06-14 06:56:24 | Step: 21750 | Train Loss: 0.3211
+Time: 2025-06-14 06:56:46 | Step: 21800 | Train Loss: 0.2655
+Time: 2025-06-14 06:57:09 | Step: 21850 | Train Loss: 0.3705
+Time: 2025-06-14 06:57:32 | Step: 21900 | Train Loss: 0.3715
+Time: 2025-06-14 06:57:54 | Step: 21950 | Train Loss: 0.2770
+Time: 2025-06-14 06:58:17 | Step: 22000 | Train Loss: 0.3059
+Time: 2025-06-14 06:58:39 | Step: 22050 | Train Loss: 0.2791
+Time: 2025-06-14 06:59:02 | Step: 22100 | Train Loss: 0.4003
+-------------------------
+Time: 2025-06-14 07:00:09 | *** Validation Epoch 9 End ***
+  - Val Loss: 0.3324
+  - Val Acc:  0.8474
+  - Val F1:   0.8374
+-------------------------
+Time: 2025-06-14 07:00:39 | Step: 22150 | Train Loss: 0.3521
+Time: 2025-06-14 07:01:01 | Step: 22200 | Train Loss: 0.3215
+Time: 2025-06-14 07:01:24 | Step: 22250 | Train Loss: 0.3398
+Time: 2025-06-14 07:01:47 | Step: 22300 | Train Loss: 0.3021
+Time: 2025-06-14 07:02:09 | Step: 22350 | Train Loss: 0.2842
+Time: 2025-06-14 07:02:32 | Step: 22400 | Train Loss: 0.3153
+Time: 2025-06-14 07:02:54 | Step: 22450 | Train Loss: 0.2515
+Time: 2025-06-14 07:03:17 | Step: 22500 | Train Loss: 0.3135
+Time: 2025-06-14 07:03:39 | Step: 22550 | Train Loss: 0.3520
+Time: 2025-06-14 07:04:02 | Step: 22600 | Train Loss: 0.3251
+Time: 2025-06-14 07:04:24 | Step: 22650 | Train Loss: 0.3318
+Time: 2025-06-14 07:04:47 | Step: 22700 | Train Loss: 0.2836
+Time: 2025-06-14 07:05:09 | Step: 22750 | Train Loss: 0.3433
+Time: 2025-06-14 07:05:32 | Step: 22800 | Train Loss: 0.3651
+Time: 2025-06-14 07:05:54 | Step: 22850 | Train Loss: 0.3418
+Time: 2025-06-14 07:06:17 | Step: 22900 | Train Loss: 0.2703
+Time: 2025-06-14 07:06:40 | Step: 22950 | Train Loss: 0.3375
+Time: 2025-06-14 07:07:02 | Step: 23000 | Train Loss: 0.3696
+Time: 2025-06-14 07:07:25 | Step: 23050 | Train Loss: 0.4065
+Time: 2025-06-14 07:07:47 | Step: 23100 | Train Loss: 0.2143
+Time: 2025-06-14 07:08:10 | Step: 23150 | Train Loss: 0.3900
+Time: 2025-06-14 07:08:32 | Step: 23200 | Train Loss: 0.3029
+Time: 2025-06-14 07:08:55 | Step: 23250 | Train Loss: 0.3175
+Time: 2025-06-14 07:09:17 | Step: 23300 | Train Loss: 0.3266
+Time: 2025-06-14 07:09:40 | Step: 23350 | Train Loss: 0.2296
+Time: 2025-06-14 07:10:02 | Step: 23400 | Train Loss: 0.3114
+Time: 2025-06-14 07:10:25 | Step: 23450 | Train Loss: 0.2676
+Time: 2025-06-14 07:10:47 | Step: 23500 | Train Loss: 0.2991
+Time: 2025-06-14 07:11:10 | Step: 23550 | Train Loss: 0.3686
+Time: 2025-06-14 07:11:32 | Step: 23600 | Train Loss: 0.3448
+Time: 2025-06-14 07:11:55 | Step: 23650 | Train Loss: 0.3404
+Time: 2025-06-14 07:12:17 | Step: 23700 | Train Loss: 0.2710
+Time: 2025-06-14 07:12:40 | Step: 23750 | Train Loss: 0.4257
+Time: 2025-06-14 07:13:03 | Step: 23800 | Train Loss: 0.3469
+Time: 2025-06-14 07:13:25 | Step: 23850 | Train Loss: 0.3859
+Time: 2025-06-14 07:13:48 | Step: 23900 | Train Loss: 0.3671
+Time: 2025-06-14 07:14:10 | Step: 23950 | Train Loss: 0.2964
+Time: 2025-06-14 07:14:33 | Step: 24000 | Train Loss: 0.4001
+Time: 2025-06-14 07:14:55 | Step: 24050 | Train Loss: 0.2823
+Time: 2025-06-14 07:15:18 | Step: 24100 | Train Loss: 0.3116
+Time: 2025-06-14 07:15:40 | Step: 24150 | Train Loss: 0.3347
+Time: 2025-06-14 07:16:03 | Step: 24200 | Train Loss: 0.3871
+Time: 2025-06-14 07:16:25 | Step: 24250 | Train Loss: 0.3058
+Time: 2025-06-14 07:16:48 | Step: 24300 | Train Loss: 0.2672
+-------------------------
+Time: 2025-06-14 07:18:01 | *** Validation Epoch 10 End ***
+  - Val Loss: 0.3291
+  - Val Acc:  0.8505
+  - Val F1:   0.8413
+-------------------------
+Time: 2025-06-14 07:18:25 | Step: 24350 | Train Loss: 0.2577
+Time: 2025-06-14 07:18:48 | Step: 24400 | Train Loss: 0.3492
+Time: 2025-06-14 07:19:10 | Step: 24450 | Train Loss: 0.3042
+Time: 2025-06-14 07:19:33 | Step: 24500 | Train Loss: 0.3861
+Time: 2025-06-14 07:19:55 | Step: 24550 | Train Loss: 0.2977
+Time: 2025-06-14 07:20:18 | Step: 24600 | Train Loss: 0.3331
+Time: 2025-06-14 07:20:40 | Step: 24650 | Train Loss: 0.3272
+Time: 2025-06-14 07:21:03 | Step: 24700 | Train Loss: 0.2728
+Time: 2025-06-14 07:21:25 | Step: 24750 | Train Loss: 0.3015
+Time: 2025-06-14 07:21:48 | Step: 24800 | Train Loss: 0.3257
+Time: 2025-06-14 07:22:10 | Step: 24850 | Train Loss: 0.2435
+Time: 2025-06-14 07:22:33 | Step: 24900 | Train Loss: 0.3069
+Time: 2025-06-14 07:22:56 | Step: 24950 | Train Loss: 0.2977
+Time: 2025-06-14 07:23:18 | Step: 25000 | Train Loss: 0.3472
+Time: 2025-06-14 07:23:41 | Step: 25050 | Train Loss: 0.3071
+Time: 2025-06-14 07:24:03 | Step: 25100 | Train Loss: 0.2932
+Time: 2025-06-14 07:24:26 | Step: 25150 | Train Loss: 0.3034
+Time: 2025-06-14 07:24:48 | Step: 25200 | Train Loss: 0.3430
+Time: 2025-06-14 07:25:11 | Step: 25250 | Train Loss: 0.3263
+Time: 2025-06-14 07:25:33 | Step: 25300 | Train Loss: 0.3199
+Time: 2025-06-14 07:25:56 | Step: 25350 | Train Loss: 0.2929
+Time: 2025-06-14 07:26:18 | Step: 25400 | Train Loss: 0.3223
+Time: 2025-06-14 07:26:41 | Step: 25450 | Train Loss: 0.3063
+Time: 2025-06-14 07:27:03 | Step: 25500 | Train Loss: 0.3014
+Time: 2025-06-14 07:27:26 | Step: 25550 | Train Loss: 0.4203
+Time: 2025-06-14 07:27:48 | Step: 25600 | Train Loss: 0.3046
+Time: 2025-06-14 07:28:11 | Step: 25650 | Train Loss: 0.3058
+Time: 2025-06-14 07:28:33 | Step: 25700 | Train Loss: 0.3117
+Time: 2025-06-14 07:28:56 | Step: 25750 | Train Loss: 0.3532
+Time: 2025-06-14 07:29:18 | Step: 25800 | Train Loss: 0.3366
+Time: 2025-06-14 07:29:41 | Step: 25850 | Train Loss: 0.2900
+Time: 2025-06-14 07:30:03 | Step: 25900 | Train Loss: 0.3650
+Time: 2025-06-14 07:30:26 | Step: 25950 | Train Loss: 0.2876
+Time: 2025-06-14 07:30:48 | Step: 26000 | Train Loss: 0.3078
+Time: 2025-06-14 07:31:11 | Step: 26050 | Train Loss: 0.3409
+Time: 2025-06-14 07:31:33 | Step: 26100 | Train Loss: 0.2724
+Time: 2025-06-14 07:31:56 | Step: 26150 | Train Loss: 0.3319
+Time: 2025-06-14 07:32:18 | Step: 26200 | Train Loss: 0.4031
+Time: 2025-06-14 07:32:41 | Step: 26250 | Train Loss: 0.3095
+Time: 2025-06-14 07:33:03 | Step: 26300 | Train Loss: 0.3990
+Time: 2025-06-14 07:33:26 | Step: 26350 | Train Loss: 0.3692
+Time: 2025-06-14 07:33:48 | Step: 26400 | Train Loss: 0.3358
+Time: 2025-06-14 07:34:11 | Step: 26450 | Train Loss: 0.3393
+Time: 2025-06-14 07:34:33 | Step: 26500 | Train Loss: 0.2653
+-------------------------
+Time: 2025-06-14 07:35:52 | *** Validation Epoch 11 End ***
+  - Val Loss: 0.3265
+  - Val Acc:  0.8511
+  - Val F1:   0.8408
+-------------------------
+Time: 2025-06-14 07:36:13 | Step: 26550 | Train Loss: 0.2423
+Time: 2025-06-14 07:36:35 | Step: 26600 | Train Loss: 0.3467
+Time: 2025-06-14 07:36:58 | Step: 26650 | Train Loss: 0.3362
+Time: 2025-06-14 07:37:20 | Step: 26700 | Train Loss: 0.3883
+Time: 2025-06-14 07:37:43 | Step: 26750 | Train Loss: 0.2756
+Time: 2025-06-14 07:38:05 | Step: 26800 | Train Loss: 0.3225
+Time: 2025-06-14 07:38:28 | Step: 26850 | Train Loss: 0.3159
+Time: 2025-06-14 07:38:50 | Step: 26900 | Train Loss: 0.2282
+Time: 2025-06-14 07:39:13 | Step: 26950 | Train Loss: 0.2975
+Time: 2025-06-14 07:39:35 | Step: 27000 | Train Loss: 0.3790
+Time: 2025-06-14 07:39:58 | Step: 27050 | Train Loss: 0.2861
+Time: 2025-06-14 07:40:20 | Step: 27100 | Train Loss: 0.2840
+Time: 2025-06-14 07:40:43 | Step: 27150 | Train Loss: 0.3568
+Time: 2025-06-14 07:41:05 | Step: 27200 | Train Loss: 0.3907
+Time: 2025-06-14 07:41:28 | Step: 27250 | Train Loss: 0.2370
+Time: 2025-06-14 07:41:51 | Step: 27300 | Train Loss: 0.3520
+Time: 2025-06-14 07:42:13 | Step: 27350 | Train Loss: 0.3064
+Time: 2025-06-14 07:42:36 | Step: 27400 | Train Loss: 0.3153
+Time: 2025-06-14 07:42:58 | Step: 27450 | Train Loss: 0.3106
+Time: 2025-06-14 07:43:21 | Step: 27500 | Train Loss: 0.2973
+Time: 2025-06-14 07:43:43 | Step: 27550 | Train Loss: 0.3264
+Time: 2025-06-14 07:44:06 | Step: 27600 | Train Loss: 0.2906
+Time: 2025-06-14 07:44:28 | Step: 27650 | Train Loss: 0.2762
+Time: 2025-06-14 07:44:51 | Step: 27700 | Train Loss: 0.2920
+Time: 2025-06-14 07:45:13 | Step: 27750 | Train Loss: 0.3220
+Time: 2025-06-14 07:45:36 | Step: 27800 | Train Loss: 0.2815
+Time: 2025-06-14 07:45:58 | Step: 27850 | Train Loss: 0.2726
+Time: 2025-06-14 07:46:21 | Step: 27900 | Train Loss: 0.2924
+Time: 2025-06-14 07:46:43 | Step: 27950 | Train Loss: 0.2973
+Time: 2025-06-14 07:47:06 | Step: 28000 | Train Loss: 0.1803
+Time: 2025-06-14 07:47:28 | Step: 28050 | Train Loss: 0.2577
+Time: 2025-06-14 07:47:51 | Step: 28100 | Train Loss: 0.2863
+Time: 2025-06-14 07:48:13 | Step: 28150 | Train Loss: 0.3181
+Time: 2025-06-14 07:48:36 | Step: 28200 | Train Loss: 0.3744
+Time: 2025-06-14 07:48:58 | Step: 28250 | Train Loss: 0.2808
+Time: 2025-06-14 07:49:21 | Step: 28300 | Train Loss: 0.3541
+Time: 2025-06-14 07:49:44 | Step: 28350 | Train Loss: 0.3187
+Time: 2025-06-14 07:50:06 | Step: 28400 | Train Loss: 0.3194
+Time: 2025-06-14 07:50:29 | Step: 28450 | Train Loss: 0.3403
+Time: 2025-06-14 07:50:51 | Step: 28500 | Train Loss: 0.2894
+Time: 2025-06-14 07:51:14 | Step: 28550 | Train Loss: 0.2582
+Time: 2025-06-14 07:51:36 | Step: 28600 | Train Loss: 0.3223
+Time: 2025-06-14 07:51:59 | Step: 28650 | Train Loss: 0.3563
+Time: 2025-06-14 07:52:21 | Step: 28700 | Train Loss: 0.2522
+-------------------------
+Time: 2025-06-14 07:53:44 | *** Validation Epoch 12 End ***
+  - Val Loss: 0.3259
+  - Val Acc:  0.8525
+  - Val F1:   0.8410
+-------------------------
+Time: 2025-06-14 07:53:59 | Step: 28750 | Train Loss: 0.2856
+Time: 2025-06-14 07:54:21 | Step: 28800 | Train Loss: 0.3137
+Time: 2025-06-14 07:54:44 | Step: 28850 | Train Loss: 0.3138
+Time: 2025-06-14 07:55:06 | Step: 28900 | Train Loss: 0.3242
+Time: 2025-06-14 07:55:29 | Step: 28950 | Train Loss: 0.3503
+Time: 2025-06-14 07:55:51 | Step: 29000 | Train Loss: 0.2548
+Time: 2025-06-14 07:56:14 | Step: 29050 | Train Loss: 0.3412
+Time: 2025-06-14 07:56:36 | Step: 29100 | Train Loss: 0.3006
+Time: 2025-06-14 07:56:59 | Step: 29150 | Train Loss: 0.3688
+Time: 2025-06-14 07:57:21 | Step: 29200 | Train Loss: 0.2886
+Time: 2025-06-14 07:57:44 | Step: 29250 | Train Loss: 0.2445
+Time: 2025-06-14 07:58:06 | Step: 29300 | Train Loss: 0.2284
+Time: 2025-06-14 07:58:29 | Step: 29350 | Train Loss: 0.2678
+Time: 2025-06-14 07:58:51 | Step: 29400 | Train Loss: 0.3307
+Time: 2025-06-14 07:59:14 | Step: 29450 | Train Loss: 0.3742
+Time: 2025-06-14 07:59:36 | Step: 29500 | Train Loss: 0.2671
+Time: 2025-06-14 07:59:59 | Step: 29550 | Train Loss: 0.2916
+Time: 2025-06-14 08:00:21 | Step: 29600 | Train Loss: 0.2107
+Time: 2025-06-14 08:00:44 | Step: 29650 | Train Loss: 0.3110
+Time: 2025-06-14 08:01:06 | Step: 29700 | Train Loss: 0.3806
+Time: 2025-06-14 08:01:29 | Step: 29750 | Train Loss: 0.3732
+Time: 2025-06-14 08:01:51 | Step: 29800 | Train Loss: 0.3041
+Time: 2025-06-14 08:02:14 | Step: 29850 | Train Loss: 0.2943
+Time: 2025-06-14 08:02:37 | Step: 29900 | Train Loss: 0.3522
+Time: 2025-06-14 08:02:59 | Step: 29950 | Train Loss: 0.3233
+Time: 2025-06-14 08:03:22 | Step: 30000 | Train Loss: 0.3270
+Time: 2025-06-14 08:03:44 | Step: 30050 | Train Loss: 0.3755
+Time: 2025-06-14 08:04:07 | Step: 30100 | Train Loss: 0.2487
+Time: 2025-06-14 08:04:29 | Step: 30150 | Train Loss: 0.3200
+Time: 2025-06-14 08:04:51 | Step: 30200 | Train Loss: 0.2784
+Time: 2025-06-14 08:05:14 | Step: 30250 | Train Loss: 0.3063
+Time: 2025-06-14 08:05:37 | Step: 30300 | Train Loss: 0.2528
+Time: 2025-06-14 08:05:59 | Step: 30350 | Train Loss: 0.3171
+Time: 2025-06-14 08:06:22 | Step: 30400 | Train Loss: 0.2707
+Time: 2025-06-14 08:06:44 | Step: 30450 | Train Loss: 0.3145
+Time: 2025-06-14 08:07:07 | Step: 30500 | Train Loss: 0.2576
+Time: 2025-06-14 08:07:29 | Step: 30550 | Train Loss: 0.3423
+Time: 2025-06-14 08:07:52 | Step: 30600 | Train Loss: 0.2500
+Time: 2025-06-14 08:08:14 | Step: 30650 | Train Loss: 0.2496
+Time: 2025-06-14 08:08:37 | Step: 30700 | Train Loss: 0.3748
+Time: 2025-06-14 08:08:59 | Step: 30750 | Train Loss: 0.3184
+Time: 2025-06-14 08:09:22 | Step: 30800 | Train Loss: 0.3462
+Time: 2025-06-14 08:09:44 | Step: 30850 | Train Loss: 0.4234
+Time: 2025-06-14 08:10:07 | Step: 30900 | Train Loss: 0.3706
+Time: 2025-06-14 08:10:29 | Step: 30950 | Train Loss: 0.2890
+-------------------------
+Time: 2025-06-14 08:11:34 | *** Validation Epoch 13 End ***
+  - Val Loss: 0.3235
+  - Val Acc:  0.8519
+  - Val F1:   0.8446
+-------------------------
+Time: 2025-06-14 08:12:07 | Step: 31000 | Train Loss: 0.2618
+Time: 2025-06-14 08:12:29 | Step: 31050 | Train Loss: 0.2879
+Time: 2025-06-14 08:12:52 | Step: 31100 | Train Loss: 0.1794
+Time: 2025-06-14 08:13:14 | Step: 31150 | Train Loss: 0.3457
+Time: 2025-06-14 08:13:37 | Step: 31200 | Train Loss: 0.3864
+Time: 2025-06-14 08:13:59 | Step: 31250 | Train Loss: 0.2947
+Time: 2025-06-14 08:14:22 | Step: 31300 | Train Loss: 0.3558
+Time: 2025-06-14 08:14:44 | Step: 31350 | Train Loss: 0.3741
+Time: 2025-06-14 08:15:07 | Step: 31400 | Train Loss: 0.3240
+Time: 2025-06-14 08:15:29 | Step: 31450 | Train Loss: 0.2720
+Time: 2025-06-14 08:15:52 | Step: 31500 | Train Loss: 0.3965
+Time: 2025-06-14 08:16:14 | Step: 31550 | Train Loss: 0.2918
+Time: 2025-06-14 08:16:37 | Step: 31600 | Train Loss: 0.3161
+Time: 2025-06-14 08:16:59 | Step: 31650 | Train Loss: 0.3573
+Time: 2025-06-14 08:17:22 | Step: 31700 | Train Loss: 0.3041
+Time: 2025-06-14 08:17:44 | Step: 31750 | Train Loss: 0.2122
+Time: 2025-06-14 08:18:07 | Step: 31800 | Train Loss: 0.2846
+Time: 2025-06-14 08:18:29 | Step: 31850 | Train Loss: 0.2486
+Time: 2025-06-14 08:18:52 | Step: 31900 | Train Loss: 0.3383
+Time: 2025-06-14 08:19:14 | Step: 31950 | Train Loss: 0.2408
+Time: 2025-06-14 08:19:37 | Step: 32000 | Train Loss: 0.3997
+Time: 2025-06-14 08:19:59 | Step: 32050 | Train Loss: 0.3056
+Time: 2025-06-14 08:20:22 | Step: 32100 | Train Loss: 0.3932
+Time: 2025-06-14 08:20:44 | Step: 32150 | Train Loss: 0.2316
+Time: 2025-06-14 08:21:07 | Step: 32200 | Train Loss: 0.2470
+Time: 2025-06-14 08:21:29 | Step: 32250 | Train Loss: 0.3002
+Time: 2025-06-14 08:21:52 | Step: 32300 | Train Loss: 0.2841
+Time: 2025-06-14 08:22:14 | Step: 32350 | Train Loss: 0.2767
+Time: 2025-06-14 08:22:37 | Step: 32400 | Train Loss: 0.2908
+Time: 2025-06-14 08:22:59 | Step: 32450 | Train Loss: 0.2930
+Time: 2025-06-14 08:23:22 | Step: 32500 | Train Loss: 0.2903
+Time: 2025-06-14 08:23:44 | Step: 32550 | Train Loss: 0.2823
+Time: 2025-06-14 08:24:07 | Step: 32600 | Train Loss: 0.3321
+Time: 2025-06-14 08:24:29 | Step: 32650 | Train Loss: 0.3555
+Time: 2025-06-14 08:24:52 | Step: 32700 | Train Loss: 0.3471
+Time: 2025-06-14 08:25:14 | Step: 32750 | Train Loss: 0.2661
+Time: 2025-06-14 08:25:37 | Step: 32800 | Train Loss: 0.3237
+Time: 2025-06-14 08:25:59 | Step: 32850 | Train Loss: 0.3836
+Time: 2025-06-14 08:26:22 | Step: 32900 | Train Loss: 0.3487
+Time: 2025-06-14 08:26:44 | Step: 32950 | Train Loss: 0.3250
+Time: 2025-06-14 08:27:07 | Step: 33000 | Train Loss: 0.3637
+Time: 2025-06-14 08:27:29 | Step: 33050 | Train Loss: 0.2318
+Time: 2025-06-14 08:27:52 | Step: 33100 | Train Loss: 0.3413
+Time: 2025-06-14 08:28:14 | Step: 33150 | Train Loss: 0.2302
+-------------------------
+Time: 2025-06-14 08:29:25 | *** Validation Epoch 14 End ***
+  - Val Loss: 0.3207
+  - Val Acc:  0.8549
+  - Val F1:   0.8449
+-------------------------
+Time: 2025-06-14 08:29:52 | Step: 33200 | Train Loss: 0.4238
+Time: 2025-06-14 08:30:15 | Step: 33250 | Train Loss: 0.2701
+Time: 2025-06-14 08:30:37 | Step: 33300 | Train Loss: 0.3075
+Time: 2025-06-14 08:31:00 | Step: 33350 | Train Loss: 0.4055
+Time: 2025-06-14 08:31:22 | Step: 33400 | Train Loss: 0.2030
+Time: 2025-06-14 08:31:45 | Step: 33450 | Train Loss: 0.3418
+Time: 2025-06-14 08:32:07 | Step: 33500 | Train Loss: 0.2933
+Time: 2025-06-14 08:32:30 | Step: 33550 | Train Loss: 0.3270
+Time: 2025-06-14 08:32:52 | Step: 33600 | Train Loss: 0.3126
+Time: 2025-06-14 08:33:15 | Step: 33650 | Train Loss: 0.2978
+Time: 2025-06-14 08:33:37 | Step: 33700 | Train Loss: 0.3324
+Time: 2025-06-14 08:34:00 | Step: 33750 | Train Loss: 0.3124
+Time: 2025-06-14 08:34:22 | Step: 33800 | Train Loss: 0.2920
+Time: 2025-06-14 08:34:45 | Step: 33850 | Train Loss: 0.2860
+Time: 2025-06-14 08:35:07 | Step: 33900 | Train Loss: 0.4097
+Time: 2025-06-14 08:35:30 | Step: 33950 | Train Loss: 0.2642
+Time: 2025-06-14 08:35:52 | Step: 34000 | Train Loss: 0.3817
+Time: 2025-06-14 08:36:15 | Step: 34050 | Train Loss: 0.3508
+Time: 2025-06-14 08:36:37 | Step: 34100 | Train Loss: 0.2807
+Time: 2025-06-14 08:37:00 | Step: 34150 | Train Loss: 0.3047
+Time: 2025-06-14 08:37:22 | Step: 34200 | Train Loss: 0.3064
+Time: 2025-06-14 08:37:45 | Step: 34250 | Train Loss: 0.3692
+Time: 2025-06-14 08:38:07 | Step: 34300 | Train Loss: 0.3121
+Time: 2025-06-14 08:38:30 | Step: 34350 | Train Loss: 0.2954
+Time: 2025-06-14 08:38:52 | Step: 34400 | Train Loss: 0.2211
+Time: 2025-06-14 08:39:15 | Step: 34450 | Train Loss: 0.2299
+Time: 2025-06-14 08:39:37 | Step: 34500 | Train Loss: 0.3351
+Time: 2025-06-14 08:40:00 | Step: 34550 | Train Loss: 0.2867
+Time: 2025-06-14 08:40:22 | Step: 34600 | Train Loss: 0.2731
+Time: 2025-06-14 08:40:45 | Step: 34650 | Train Loss: 0.2899
+Time: 2025-06-14 08:41:07 | Step: 34700 | Train Loss: 0.3568
+Time: 2025-06-14 08:41:30 | Step: 34750 | Train Loss: 0.2780
+Time: 2025-06-14 08:41:52 | Step: 34800 | Train Loss: 0.3259
+Time: 2025-06-14 08:42:15 | Step: 34850 | Train Loss: 0.2948
+Time: 2025-06-14 08:42:37 | Step: 34900 | Train Loss: 0.3351
+Time: 2025-06-14 08:43:00 | Step: 34950 | Train Loss: 0.3098
+Time: 2025-06-14 08:43:22 | Step: 35000 | Train Loss: 0.3877
+Time: 2025-06-14 08:43:45 | Step: 35050 | Train Loss: 0.2725
+Time: 2025-06-14 08:44:07 | Step: 35100 | Train Loss: 0.2996
+Time: 2025-06-14 08:44:30 | Step: 35150 | Train Loss: 0.2140
+Time: 2025-06-14 08:44:52 | Step: 35200 | Train Loss: 0.4033
+Time: 2025-06-14 08:45:15 | Step: 35250 | Train Loss: 0.2795
+Time: 2025-06-14 08:45:37 | Step: 35300 | Train Loss: 0.2396
+Time: 2025-06-14 08:46:00 | Step: 35350 | Train Loss: 0.2477
+-------------------------
+Time: 2025-06-14 08:47:15 | *** Validation Epoch 15 End ***
+  - Val Loss: 0.3205
+  - Val Acc:  0.8556
+  - Val F1:   0.8443
+-------------------------
+Time: 2025-06-14 08:47:37 | Step: 35400 | Train Loss: 0.3255
+Time: 2025-06-14 08:48:00 | Step: 35450 | Train Loss: 0.2795
+Time: 2025-06-14 08:48:22 | Step: 35500 | Train Loss: 0.3119
+Time: 2025-06-14 08:48:45 | Step: 35550 | Train Loss: 0.3059
+Time: 2025-06-14 08:49:07 | Step: 35600 | Train Loss: 0.2293
+Time: 2025-06-14 08:49:30 | Step: 35650 | Train Loss: 0.2453
+Time: 2025-06-14 08:49:52 | Step: 35700 | Train Loss: 0.3732
+Time: 2025-06-14 08:50:15 | Step: 35750 | Train Loss: 0.2726
+Time: 2025-06-14 08:50:37 | Step: 35800 | Train Loss: 0.2800
+Time: 2025-06-14 08:51:00 | Step: 35850 | Train Loss: 0.3034
+Time: 2025-06-14 08:51:22 | Step: 35900 | Train Loss: 0.2826
+Time: 2025-06-14 08:51:45 | Step: 35950 | Train Loss: 0.3913
+Time: 2025-06-14 08:52:07 | Step: 36000 | Train Loss: 0.3510
+Time: 2025-06-14 08:52:30 | Step: 36050 | Train Loss: 0.2651
+Time: 2025-06-14 08:52:52 | Step: 36100 | Train Loss: 0.2631
+Time: 2025-06-14 08:53:15 | Step: 36150 | Train Loss: 0.2335
+Time: 2025-06-14 08:53:37 | Step: 36200 | Train Loss: 0.2648
+Time: 2025-06-14 08:54:00 | Step: 36250 | Train Loss: 0.2886
+Time: 2025-06-14 08:54:22 | Step: 36300 | Train Loss: 0.3779
+Time: 2025-06-14 08:54:45 | Step: 36350 | Train Loss: 0.2359
+Time: 2025-06-14 08:55:07 | Step: 36400 | Train Loss: 0.2765
+Time: 2025-06-14 08:55:30 | Step: 36450 | Train Loss: 0.2691
+Time: 2025-06-14 08:55:52 | Step: 36500 | Train Loss: 0.3742
+Time: 2025-06-14 08:56:15 | Step: 36550 | Train Loss: 0.2267
+Time: 2025-06-14 08:56:37 | Step: 36600 | Train Loss: 0.3307
+Time: 2025-06-14 08:57:00 | Step: 36650 | Train Loss: 0.2686
+Time: 2025-06-14 08:57:22 | Step: 36700 | Train Loss: 0.3207
+Time: 2025-06-14 08:57:45 | Step: 36750 | Train Loss: 0.3335
+Time: 2025-06-14 08:58:07 | Step: 36800 | Train Loss: 0.3215
+Time: 2025-06-14 08:58:30 | Step: 36850 | Train Loss: 0.2275
+Time: 2025-06-14 08:58:52 | Step: 36900 | Train Loss: 0.2191
+Time: 2025-06-14 08:59:15 | Step: 36950 | Train Loss: 0.2880
+Time: 2025-06-14 08:59:37 | Step: 37000 | Train Loss: 0.2798
+Time: 2025-06-14 09:00:00 | Step: 37050 | Train Loss: 0.2020
+Time: 2025-06-14 09:00:22 | Step: 37100 | Train Loss: 0.3860
+Time: 2025-06-14 09:00:45 | Step: 37150 | Train Loss: 0.2862
+Time: 2025-06-14 09:01:07 | Step: 37200 | Train Loss: 0.2220
+Time: 2025-06-14 09:01:30 | Step: 37250 | Train Loss: 0.2857
+Time: 2025-06-14 09:01:52 | Step: 37300 | Train Loss: 0.2592
+Time: 2025-06-14 09:02:15 | Step: 37350 | Train Loss: 0.2106
+Time: 2025-06-14 09:02:37 | Step: 37400 | Train Loss: 0.2778
+Time: 2025-06-14 09:03:00 | Step: 37450 | Train Loss: 0.2234
+Time: 2025-06-14 09:03:22 | Step: 37500 | Train Loss: 0.3162
+Time: 2025-06-14 09:03:45 | Step: 37550 | Train Loss: 0.3087
+-------------------------
+Time: 2025-06-14 09:05:05 | *** Validation Epoch 16 End ***
+  - Val Loss: 0.3155
+  - Val Acc:  0.8583
+  - Val F1:   0.8496
+-------------------------
+Time: 2025-06-14 09:05:23 | Step: 37600 | Train Loss: 0.2775
+Time: 2025-06-14 09:05:45 | Step: 37650 | Train Loss: 0.2465
+Time: 2025-06-14 09:06:08 | Step: 37700 | Train Loss: 0.3341
+Time: 2025-06-14 09:06:30 | Step: 37750 | Train Loss: 0.2932
+Time: 2025-06-14 09:06:53 | Step: 37800 | Train Loss: 0.2524
+Time: 2025-06-14 09:07:15 | Step: 37850 | Train Loss: 0.2090
+Time: 2025-06-14 09:07:38 | Step: 37900 | Train Loss: 0.3399
+Time: 2025-06-14 09:08:00 | Step: 37950 | Train Loss: 0.2503
+Time: 2025-06-14 09:08:23 | Step: 38000 | Train Loss: 0.2720
+Time: 2025-06-14 09:08:45 | Step: 38050 | Train Loss: 0.2878
+Time: 2025-06-14 09:09:08 | Step: 38100 | Train Loss: 0.2003
+Time: 2025-06-14 09:09:30 | Step: 38150 | Train Loss: 0.3435
+Time: 2025-06-14 09:09:53 | Step: 38200 | Train Loss: 0.2626
+Time: 2025-06-14 09:10:15 | Step: 38250 | Train Loss: 0.2765
+Time: 2025-06-14 09:10:38 | Step: 38300 | Train Loss: 0.2860
+Time: 2025-06-14 09:11:00 | Step: 38350 | Train Loss: 0.2999
+Time: 2025-06-14 09:11:23 | Step: 38400 | Train Loss: 0.3080
+Time: 2025-06-14 09:11:45 | Step: 38450 | Train Loss: 0.2342
+Time: 2025-06-14 09:12:08 | Step: 38500 | Train Loss: 0.3469
+Time: 2025-06-14 09:12:30 | Step: 38550 | Train Loss: 0.3221
+Time: 2025-06-14 09:12:53 | Step: 38600 | Train Loss: 0.2210
+Time: 2025-06-14 09:13:15 | Step: 38650 | Train Loss: 0.3017
+Time: 2025-06-14 09:13:37 | Step: 38700 | Train Loss: 0.3000
+Time: 2025-06-14 09:14:00 | Step: 38750 | Train Loss: 0.2884
+Time: 2025-06-14 09:14:22 | Step: 38800 | Train Loss: 0.3453
+Time: 2025-06-14 09:14:45 | Step: 38850 | Train Loss: 0.2789
+Time: 2025-06-14 09:15:07 | Step: 38900 | Train Loss: 0.2702
+Time: 2025-06-14 09:15:30 | Step: 38950 | Train Loss: 0.3070
+Time: 2025-06-14 09:15:52 | Step: 39000 | Train Loss: 0.3679
+Time: 2025-06-14 09:16:15 | Step: 39050 | Train Loss: 0.2971
+Time: 2025-06-14 09:16:37 | Step: 39100 | Train Loss: 0.3457
+Time: 2025-06-14 09:17:00 | Step: 39150 | Train Loss: 0.4109
+Time: 2025-06-14 09:17:22 | Step: 39200 | Train Loss: 0.2845
+Time: 2025-06-14 09:17:45 | Step: 39250 | Train Loss: 0.3037
+Time: 2025-06-14 09:18:07 | Step: 39300 | Train Loss: 0.2980
+Time: 2025-06-14 09:18:30 | Step: 39350 | Train Loss: 0.3396
+Time: 2025-06-14 09:18:52 | Step: 39400 | Train Loss: 0.2517
+Time: 2025-06-14 09:19:15 | Step: 39450 | Train Loss: 0.2688
+Time: 2025-06-14 09:19:37 | Step: 39500 | Train Loss: 0.2541
+Time: 2025-06-14 09:19:59 | Step: 39550 | Train Loss: 0.2552
+Time: 2025-06-14 09:20:22 | Step: 39600 | Train Loss: 0.3537
+Time: 2025-06-14 09:20:44 | Step: 39650 | Train Loss: 0.3540
+Time: 2025-06-14 09:21:07 | Step: 39700 | Train Loss: 0.3195
+Time: 2025-06-14 09:21:29 | Step: 39750 | Train Loss: 0.2985
+-------------------------
+Time: 2025-06-14 09:22:54 | *** Validation Epoch 17 End ***
+  - Val Loss: 0.3139
+  - Val Acc:  0.8571
+  - Val F1:   0.8489
+-------------------------
+Time: 2025-06-14 09:23:07 | Step: 39800 | Train Loss: 0.2759
+Time: 2025-06-14 09:23:30 | Step: 39850 | Train Loss: 0.2859
+Time: 2025-06-14 09:23:52 | Step: 39900 | Train Loss: 0.2713
+Time: 2025-06-14 09:24:15 | Step: 39950 | Train Loss: 0.2727
+Time: 2025-06-14 09:24:37 | Step: 40000 | Train Loss: 0.2823
+Time: 2025-06-14 09:25:00 | Step: 40050 | Train Loss: 0.3222
+Time: 2025-06-14 09:25:22 | Step: 40100 | Train Loss: 0.2305
+Time: 2025-06-14 09:25:45 | Step: 40150 | Train Loss: 0.2193
+Time: 2025-06-14 09:26:07 | Step: 40200 | Train Loss: 0.3357
+Time: 2025-06-14 09:26:30 | Step: 40250 | Train Loss: 0.3024
+Time: 2025-06-14 09:26:52 | Step: 40300 | Train Loss: 0.3036
+Time: 2025-06-14 09:27:14 | Step: 40350 | Train Loss: 0.3043
+Time: 2025-06-14 09:27:37 | Step: 40400 | Train Loss: 0.2064
+Time: 2025-06-14 09:27:59 | Step: 40450 | Train Loss: 0.3240
+Time: 2025-06-14 09:28:22 | Step: 40500 | Train Loss: 0.3092
+Time: 2025-06-14 09:28:44 | Step: 40550 | Train Loss: 0.3329
+Time: 2025-06-14 09:29:07 | Step: 40600 | Train Loss: 0.2969
+Time: 2025-06-14 09:29:29 | Step: 40650 | Train Loss: 0.3301
+Time: 2025-06-14 09:29:52 | Step: 40700 | Train Loss: 0.3395
+Time: 2025-06-14 09:30:14 | Step: 40750 | Train Loss: 0.3404
+Time: 2025-06-14 09:30:37 | Step: 40800 | Train Loss: 0.2521
+Time: 2025-06-14 09:30:59 | Step: 40850 | Train Loss: 0.2902
+Time: 2025-06-14 09:31:22 | Step: 40900 | Train Loss: 0.2502
+Time: 2025-06-14 09:31:44 | Step: 40950 | Train Loss: 0.2893
+Time: 2025-06-14 09:32:06 | Step: 41000 | Train Loss: 0.3026
+Time: 2025-06-14 09:32:29 | Step: 41050 | Train Loss: 0.3478
+Time: 2025-06-14 09:32:51 | Step: 41100 | Train Loss: 0.3641
+Time: 2025-06-14 09:33:14 | Step: 41150 | Train Loss: 0.3574
+Time: 2025-06-14 09:33:36 | Step: 41200 | Train Loss: 0.2642
+Time: 2025-06-14 09:33:59 | Step: 41250 | Train Loss: 0.3321
+Time: 2025-06-14 09:34:21 | Step: 41300 | Train Loss: 0.3604
+Time: 2025-06-14 09:34:44 | Step: 41350 | Train Loss: 0.3554
+Time: 2025-06-14 09:35:06 | Step: 41400 | Train Loss: 0.2757
+Time: 2025-06-14 09:35:29 | Step: 41450 | Train Loss: 0.3215
+Time: 2025-06-14 09:35:51 | Step: 41500 | Train Loss: 0.3702
+Time: 2025-06-14 09:36:14 | Step: 41550 | Train Loss: 0.3460
+Time: 2025-06-14 09:36:36 | Step: 41600 | Train Loss: 0.3204
+Time: 2025-06-14 09:36:59 | Step: 41650 | Train Loss: 0.3803
+Time: 2025-06-14 09:37:21 | Step: 41700 | Train Loss: 0.2673
+Time: 2025-06-14 09:37:44 | Step: 41750 | Train Loss: 0.2970
+Time: 2025-06-14 09:38:06 | Step: 41800 | Train Loss: 0.3553
+Time: 2025-06-14 09:38:28 | Step: 41850 | Train Loss: 0.2914
+Time: 2025-06-14 09:38:51 | Step: 41900 | Train Loss: 0.2646
+Time: 2025-06-14 09:39:13 | Step: 41950 | Train Loss: 0.3203
+Time: 2025-06-14 09:39:36 | Step: 42000 | Train Loss: 0.2426
+-------------------------
+Time: 2025-06-14 09:40:43 | *** Validation Epoch 18 End ***
+  - Val Loss: 0.3167
+  - Val Acc:  0.8576
+  - Val F1:   0.8456
+-------------------------
+Time: 2025-06-14 09:41:14 | Step: 42050 | Train Loss: 0.3686
+Time: 2025-06-14 09:41:36 | Step: 42100 | Train Loss: 0.2972
+Time: 2025-06-14 09:41:59 | Step: 42150 | Train Loss: 0.2964
+Time: 2025-06-14 09:42:21 | Step: 42200 | Train Loss: 0.3191
+Time: 2025-06-14 09:42:44 | Step: 42250 | Train Loss: 0.3440
+Time: 2025-06-14 09:43:06 | Step: 42300 | Train Loss: 0.3818
+Time: 2025-06-14 09:43:29 | Step: 42350 | Train Loss: 0.3011
+Time: 2025-06-14 09:43:51 | Step: 42400 | Train Loss: 0.2709
+Time: 2025-06-14 09:44:14 | Step: 42450 | Train Loss: 0.2590
+Time: 2025-06-14 09:44:36 | Step: 42500 | Train Loss: 0.1996
+Time: 2025-06-14 09:44:59 | Step: 42550 | Train Loss: 0.2924
+Time: 2025-06-14 09:45:21 | Step: 42600 | Train Loss: 0.2724
+Time: 2025-06-14 09:45:43 | Step: 42650 | Train Loss: 0.3117
+Time: 2025-06-14 09:46:06 | Step: 42700 | Train Loss: 0.3013
+Time: 2025-06-14 09:46:28 | Step: 42750 | Train Loss: 0.2801
+Time: 2025-06-14 09:46:51 | Step: 42800 | Train Loss: 0.2775
+Time: 2025-06-14 09:47:13 | Step: 42850 | Train Loss: 0.2366
+Time: 2025-06-14 09:47:36 | Step: 42900 | Train Loss: 0.2879
+Time: 2025-06-14 09:47:58 | Step: 42950 | Train Loss: 0.2808
+Time: 2025-06-14 09:48:21 | Step: 43000 | Train Loss: 0.3562
+Time: 2025-06-14 09:48:43 | Step: 43050 | Train Loss: 0.2517
+Time: 2025-06-14 09:49:06 | Step: 43100 | Train Loss: 0.3458
+Time: 2025-06-14 09:49:28 | Step: 43150 | Train Loss: 0.1927
+Time: 2025-06-14 09:49:51 | Step: 43200 | Train Loss: 0.2611
+Time: 2025-06-14 09:50:13 | Step: 43250 | Train Loss: 0.3165
+Time: 2025-06-14 09:50:36 | Step: 43300 | Train Loss: 0.2548
+Time: 2025-06-14 09:50:58 | Step: 43350 | Train Loss: 0.2056
+Time: 2025-06-14 09:51:20 | Step: 43400 | Train Loss: 0.2531
+Time: 2025-06-14 09:51:43 | Step: 43450 | Train Loss: 0.3081
+Time: 2025-06-14 09:52:05 | Step: 43500 | Train Loss: 0.2782
+Time: 2025-06-14 09:52:28 | Step: 43550 | Train Loss: 0.2987
+Time: 2025-06-14 09:52:50 | Step: 43600 | Train Loss: 0.2851
+Time: 2025-06-14 09:53:13 | Step: 43650 | Train Loss: 0.3442
+Time: 2025-06-14 09:53:35 | Step: 43700 | Train Loss: 0.2712
+Time: 2025-06-14 09:53:58 | Step: 43750 | Train Loss: 0.3246
+Time: 2025-06-14 09:54:20 | Step: 43800 | Train Loss: 0.2527
+Time: 2025-06-14 09:54:43 | Step: 43850 | Train Loss: 0.2865
+Time: 2025-06-14 09:55:05 | Step: 43900 | Train Loss: 0.2688
+Time: 2025-06-14 09:55:28 | Step: 43950 | Train Loss: 0.2197
+Time: 2025-06-14 09:55:50 | Step: 44000 | Train Loss: 0.2952
+Time: 2025-06-14 09:56:13 | Step: 44050 | Train Loss: 0.2272
+Time: 2025-06-14 09:56:35 | Step: 44100 | Train Loss: 0.2887
+Time: 2025-06-14 09:56:58 | Step: 44150 | Train Loss: 0.2317
+Time: 2025-06-14 09:57:20 | Step: 44200 | Train Loss: 0.2676
+-------------------------
+Time: 2025-06-14 09:58:33 | *** Validation Epoch 19 End ***
+  - Val Loss: 0.3115
+  - Val Acc:  0.8601
+  - Val F1:   0.8501
+-------------------------
+
+==================================================
+Training finished at: 2025-06-14 09:58:41
+Total training duration: 5:56:38.823034
+==================================================
+
+--- Test Results (on dev set) ---

@@ -1,0 +1,13 @@
+2025-06-15 02:35:06,072 - INFO - _250615_multitask2 - 로깅 시작. 로그 파일: ../outputs_multitask2/logs_txt/paraphrase_pipeline_20250615-023506.log
+2025-06-15 02:35:06,072 - INFO - _250615_multitask2 - 
+==================================================
+ S T A G E 1 : ETPC Fine-tuning 
+==================================================
+2025-06-15 02:43:34,990 - INFO - _250615_multitask2 - 
+ETPC fine-tuning finished. Best checkpoint saved at: /home/2020112534/NLP_final/paraphrase_detection/outputs_multitask2/checkpoints/20250615_023506_gpt2_last_ETPC/best-etpc-epoch=6-val_acc=0.0000.ckpt
+
+2025-06-15 02:43:34,991 - INFO - _250615_multitask2 - Starting QQP training from ETPC checkpoint: /home/2020112534/NLP_final/paraphrase_detection/outputs_multitask2/checkpoints/20250615_023506_gpt2_last_ETPC/best-etpc-epoch=6-val_acc=0.0000.ckpt
+2025-06-15 02:43:34,991 - INFO - _250615_multitask2 - 
+==================================================
+ S T A G E 2 : QQP Fine-tuning & Evaluation 
+==================================================

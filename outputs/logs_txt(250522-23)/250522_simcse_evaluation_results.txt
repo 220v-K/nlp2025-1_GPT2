@@ -1,0 +1,7 @@
+개발 세트 정확도: 0.8946
+개발 세트 F1 점수: 0.8879
+오분류 개수: 4261/40429 (10.54%)
+
+python 250522_SimCSE_paraphrase_detection.py --use_gpu --batch_size 96 --lr 2e-5
+--model_size gpt2 --simcse_epochs 3 --simcse_batch 256
+--simcse_lr 3e-5 --simcse_tau 0.05 --max_len 128

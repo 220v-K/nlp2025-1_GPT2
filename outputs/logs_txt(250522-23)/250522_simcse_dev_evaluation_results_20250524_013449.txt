@@ -1,0 +1,45 @@
+=== 250522 SimCSE 체크포인트 Dev Set 평가 결과 ===
+체크포인트: /home/2020112534/NLP_final/nlp2025-1/checkpoints/250522_simcse/best_model.pt
+평가 시간: 2025-05-24 01:34:49
+
+=== 모델 하이퍼파라미터 ===
+모델 크기: gpt2
+학습률: 2e-05
+배치 크기: 96
+에폭: 10
+차원: 768
+레이어: 12
+헤드 수: 12
+
+=== SimCSE 파라미터 ===
+SimCSE 에폭: 3
+SimCSE 배치 크기: 256
+SimCSE 학습률: 3e-05
+SimCSE 온도: 0.05
+최대 길이: 128
+
+=== 성능 지표 ===
+정확도 (Accuracy): 0.8946
+F1 스코어: 0.8879
+Precision: 0.8393
+Recall: 0.8828
+
+=== 기본 통계 ===
+전체 샘플: 40429
+정확한 예측: 36167
+잘못된 예측: 4262
+오류율: 10.54%
+
+=== 혼동 행렬 ===
+True Positives: 13147
+True Negatives: 23020
+False Positives: 2517
+False Negatives: 1745
+
+=== 클래스별 성능 ===
+클래스 0 (Non-paraphrase) 정확도: 0.9014 (23020/25537)
+클래스 1 (Paraphrase) 정확도: 0.8828 (13147/14892)
+
+=== 모델 특성 ===
+이 모델은 SimCSE contrastive pre-training을 거친 모델입니다.
+SimCSE는 문장 표현 학습을 위한 대조 학습 방법론입니다.

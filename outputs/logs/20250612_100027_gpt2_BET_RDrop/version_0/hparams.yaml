@@ -1,0 +1,16 @@
+batch_size: 128
+epochs: 20
+gpus: 1
+label_smoothing: 0.1
+lr: 2.0e-05
+max_length: 128
+model_size: gpt2
+num_workers: 4
+output_dir: ../outputs
+para_dev: ../data/quora-dev.csv
+para_test: ../data/quora-test-student.csv
+para_train: ../data/quora-train.csv
+precision: 16-mixed
+rdrop_alpha: 4.0
+seed: 11711
+warmup_ratio: 0.1

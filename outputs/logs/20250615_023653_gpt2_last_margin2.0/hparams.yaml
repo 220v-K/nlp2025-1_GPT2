@@ -1,0 +1,16 @@
+accelerator: auto
+batch_size: 96
+devices: 1
+epochs: 20
+lr: 2.0e-05
+margin: 2.0
+max_length: 128
+model_size: gpt2
+num_workers: 48
+output_dir: ../outputs_contrastive
+para_dev: ../data/quora-dev.csv
+para_test: ../data/quora-test-student.csv
+para_train: ../data/quora-train.csv
+pooling_method: last
+precision: 16-mixed
+seed: 11711
