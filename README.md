@@ -23,6 +23,7 @@ $ conda env create -f environment.yml
    ├─ predictions/
    ├─ data/                   [Dataset]
    ├─ models/
+   ├─ sonnet_scr/             [안에 파일들 밖으로 이동시키기!!!]
    └─ modules/
 └─ paraphrase_detection
    ├─ outputs/
@@ -95,6 +96,78 @@ torch.set_float32_matmul_precision('medium')
 
 
 
-## 학습 재현 방법 (sonnet generation)
+## 학습 재현 방법 (Sonnet Generation)
 
-=> (sonnet generation 학습 재현 방법 넣을 것.)
+> **⚠️ 현재 `sonnet_scr/` 폴더에 모든 코드가 임시로 들어 있는 상태입니다.**  
+> 학습/실행이 정상적으로 동작하려면 `sonnet_scr/` 폴더 안의 파일들을 프로젝트 최상단(`nlp2025-1/`)으로 옮겨야 합니다.  
+> 예: `sonnet_scr/sonnet_generation_*.py` → `nlp2025-1/sonnet_generation_*.py`
+
+---
+
+### 1. 파인튜닝 없이 평가하기
+
+파인튜닝 없이 다양한 생성 전략을 평가하려면 아래 코드 파일을 실행합니다:
+
+- `sonnet_generation_base.py` (Baseline)
+- `sonnet_generation_Prefix.py` (Prefix-Tuning)
+- `sonnet_generation_CS.py` (Contrastive Search)
+- `sonnet_generation_BS.py` (Beam Search)
+- `sonnet_generation_MBR.py` (MBR)
+- `sonnet_generation_CE.py` (Candidate Ensemble + MBR)
+
+```bash
+$ python sonnet_generation_*.py --use_gpu
+```
+
+> 각 코드 내부에는 아래와 같은 GPU 설정이 포함되어 있습니다.  
+> GPU 환경에 맞게 수정 또는 제거해 주세요:
+
+```python
+os.environ["CUDA_VISIBLE_DEVICES"] = "6"
+```
+
+- GPU가 여러 장인 경우: 사용할 GPU 번호를 위에 입력  
+- GPU가 1장뿐이거나 자동 할당을 원할 경우: 위 줄 삭제
+
+---
+
+### 2. 파인튜닝 수행
+
+전체 GPT-2 파라미터를 학습하려면 다음 명령어를 실행합니다:
+
+```bash
+$ python sonnet_generation_fine.py --use_gpu
+```
+
+- 해당 코드는 기존 `train()` 함수를 개선하여 다음 기법을 포함합니다:
+  - Linear warmup scheduler (`get_linear_schedule_with_warmup`)
+  - Gradient clipping (`clip_grad_norm_`)
+  - Dev CHRF 평가 기반 최고 성능 상위 3개 모델만 저장, 나머지 자동 삭제
+
+> 최종적으로 가장 높은 성능을 기록한 모델은 다음과 같습니다:
+>
+> `./74_200-1e-05-sonnet.pt`
+
+→ 위 코드는 `sonnet_generation_fine.py`만 실행하면 자동 생성됩니다.
+
+---
+
+### 3. 학습된 모델로 평가 실행하기
+
+학습된 모델을 사용해 평가하려면, `main()` 함수 내 다음 항목을 아래처럼 조정하세요:
+
+```python
+# train(args)
+generate_submission_sonnets(args)
+generate_sonnets_from_checkpoint(args)
+```
+
+즉, `train(args)`는 주석 처리하고, `generate_*()` 함수는 주석 해제합니다.
+
+또한 평가에 사용할 체크포인트 경로를 아래와 같이 지정하세요:
+
+```python
+parser.add_argument("--checkpoint", type=str,
+    default='./74_200-1e-05-sonnet.pt',
+    help='불러올 모델 체크포인트 파일 경로')
+```
