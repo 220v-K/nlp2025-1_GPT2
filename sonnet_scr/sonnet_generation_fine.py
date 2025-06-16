@@ -316,7 +316,7 @@ def get_args():
 
   parser.add_argument("--sonnet_path", type=str, default="data/sonnets.txt")
   parser.add_argument("--held_out_sonnet_path", type=str, default="data/sonnets_held_out_dev.txt")
-  parser.add_argument("--sonnet_out", type=str, default="predictions/generated_sonnets_dev_e.txt") #저장 폴더 이름
+  parser.add_argument("--sonnet_out", type=str, default="predictions/generated_sonnets_dev_fine.txt") #저장 폴더 이름
 
   parser.add_argument("--seed", type=int, default=11711)
   parser.add_argument("--epochs", type=int, default=200)
