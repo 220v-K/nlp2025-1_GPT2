@@ -18,42 +18,105 @@ $ conda env create -f environment.yml
 ## 폴더 구조 설명
 
 ```
-└─ nlp2025-1
-   ├─ [lot of codes]
-   ├─ predictions/
-   ├─ data/                   [Dataset]
-   ├─ models/
-   ├─ sonnet_scr/             [안에 파일들 밖으로 이동시키기!!!]
-   └─ modules/
-└─ paraphrase_detection
-   ├─ outputs/
-   │  ├─ logs_txt(250522-23)/ [text 파일로 정리한 학습 log]
-   │  ├─ logs_txt/            [text 파일로 정리한 학습 log (0523 이후)]
-   │  ├─ logs/                [tensorboard log 파일]
-   │  └─ checkpoints/
-   ├─ codes/                  [Paraphrase Detection 관련 code]
-   ├─ data/                   [Dataset (BackTranslation Augmented data 포함)]
-   └─ checkpoints/            [github에서 제거]
+nlp2025-1_GPT2/
+├── codes/
+│   ├── LICENSE
+│   ├── _250522_SimCSE.py
+│   ├── _250523_default_paraphrase.py
+│   ├── _250523_simcse_etc.py
+│   ├── _250611_Adverserial_gem.py
+│   ├── _250612_BackTranslation.py
+│   ├── _250612_BackTranslation_2.py
+│   ├── _250612_Multitask.py
+│   ├── _250613_default_BackTranslation.py
+│   ├── _250614_PeFT.py
+│   ├── _250614_pooling.py
+│   ├── _250615_contrastive.py
+│   ├── _250615_multitask2.py
+│   ├── _BT_augment.py
+│   ├── _BT_merge_augmented.py
+│   ├── classifier.py
+│   ├── config.py
+│   ├── datasets.py
+│   ├── env.yml
+│   ├── evaluation.py
+│   ├── optimizer.py
+│   ├── optimizer_test.npy
+│   ├── optimizer_test.py
+│   ├── paraphrase_detection.py
+│   ├── prepare_submit.py
+│   ├── run_test_from_ckpt.py
+│   ├── sanity_check.py
+│   ├── sonnet_generation_BS.py
+│   ├── sonnet_generation_CE.py
+│   ├── sonnet_generation_CS.py
+│   ├── sonnet_generation_MBR.py
+│   ├── sonnet_generation_Prefix.py
+│   ├── sonnet_generation_base.py
+│   ├── sonnet_generation_fine.py
+│   ├── test_250522_default.py
+│   ├── test_250522_simcse.py
+│   ├── test_250523_simcse_etc.py
+│   ├── utils.py
+│   ├── models/
+│   ├── modules/
+│   ├── description/
+│   └── __pycache__/
+├── data/
+│   ├── ETPC.xml
+│   ├── TRUE_sonnets_held_out_dev.txt
+│   ├── ids-cfimdb-dev.csv
+│   ├── ids-cfimdb-test-student.csv
+│   ├── ids-cfimdb-train.csv
+│   ├── ids-sst-dev.csv
+│   ├── ids-sst-test-student.csv
+│   ├── ids-sst-train.csv
+│   ├── quora-dev.csv
+│   ├── quora-test-student.csv
+│   ├── quora-train.csv
+│   ├── sonnets.txt
+│   ├── sonnets_held_out.txt
+│   └── sonnets_held_out_dev.txt
+├── models/
+│   ├── __pycache__/
+│   ├── base_gpt.py
+│   └── gpt2.py
+├── modules/
+│   ├── __pycache__/
+│   ├── attention.py
+│   └── gpt2_layer.py
+├── outputs/
+│   ├── logs/
+│   ├── logs_txt(250522-23)/
+│   └── logs_txt/
+├── predictions/
+│   └── empty.txt
+├── sonnet_scr/
+│   ├── empty.txt
+│   ├── sonnet_generation_BS.py
+│   ├── sonnet_generation_CE.py
+│   ├── sonnet_generation_CS.py
+│   ├── sonnet_generation_MBR.py
+│   ├── sonnet_generation_Prefix.py
+│   ├── sonnet_generation_base.py
+│   └── sonnet_generation_fine.py
+├── 자연어처리개론 기말프로젝트 최종보고서.docx
+├── 자연어처리개론 기말프로젝트 최종보고서.pdf
+├── requirements.txt
+├── environment.yml
+├── ...etc(기존 코드 등등)
 ```
 
-**PART-I**의 과제는 `nlp2025-1` 폴더에 완성되어 있음.
+**PART-I**의 과제는 완성되어 있음.
 
-
-
-`nlp2025-1` 폴더는 sonnet generation 위주
-`paraphrase_detection` 폴더는 paraphrase detection 위주의 코드를 저장.
-
-`paraphrase_detection/codes` 에는 `_(date)_(method)` 형식으로 trial code를 모두 기록함.
-
-
-
-=> (sonnet generation 폴더링 설명 넣을 것.)
-
+`codes` 폴더에 sonnet generation / paraphrase detection의 개선 시도 코드가 작성되어 있음.
+paraphrase_detection의 코드는 `_(date)_(method)` 형식으로 naming.
+sonnet generation의 코드는 `sonnet_generation__(method)` 형식으로 naming.
 
 
 ## 학습 재현 방법 (paraphrase detection)
 
-`paraphrase_detection/codes` 경로에서
+`codes` 경로에서
 
 ```bash
 $ python (코드 파일명).py [hyperparameter]
@@ -99,8 +162,8 @@ torch.set_float32_matmul_precision('medium')
 ## 학습 재현 방법 (Sonnet Generation)
 
 > **⚠️ 현재 `sonnet_scr/` 폴더에 모든 코드가 임시로 들어 있는 상태입니다.**  
-> 학습/실행이 정상적으로 동작하려면 `sonnet_scr/` 폴더 안의 파일들을 프로젝트 최상단(`nlp2025-1/`)으로 옮겨야 합니다.  
-> 예: `sonnet_scr/sonnet_generation_*.py` → `nlp2025-1/sonnet_generation_*.py`
+> 학습/실행이 정상적으로 동작하려면 `sonnet_scr/` 폴더 안의 파일들을 프로젝트 최상단(`./`)으로 옮겨야 합니다.  
+> 예: `sonnet_scr/sonnet_generation_*.py` → `./sonnet_generation_*.py`
 
 ---
 
