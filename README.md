@@ -109,9 +109,9 @@ nlp2025-1_GPT2/
 
 **PART-I**의 과제는 완성되어 있음.
 
-`codes` 폴더에 sonnet generation / paraphrase detection의 개선 시도 코드가 작성되어 있음.
-paraphrase_detection의 코드는 `_(date)_(method)` 형식으로 naming.
-sonnet generation의 코드는 `sonnet_generation__(method)` 형식으로 naming.
+`codes` 폴더에 sonnet generation / paraphrase detection의 개선 시도 코드가 작성되어 있음.  
+paraphrase_detection의 코드는 `_(date)_(method)` 형식으로 naming.  
+sonnet generation의 코드는 `sonnet_generation__(method)` 형식으로 naming.  
 
 
 ## 학습 재현 방법 (paraphrase detection)
