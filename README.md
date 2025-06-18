@@ -100,8 +100,8 @@ nlp2025-1_GPT2/
 │   ├── sonnet_generation_Prefix.py
 │   ├── sonnet_generation_base.py
 │   └── sonnet_generation_fine.py
-├── 자연어처리개론 기말프로젝트 최종보고서.docx
-├── 자연어처리개론 기말프로젝트 최종보고서.pdf
+├── 10팀_강병민,이재원,이소원_자연어처리개론 기말프로젝트 최종보고서.pdf
+├── 10팀_강병민,이재원,이소원_기말프로젝트_발표자료.pdf
 ├── requirements.txt
 ├── environment.yml
 ├── ...etc(기존 코드 등등)
